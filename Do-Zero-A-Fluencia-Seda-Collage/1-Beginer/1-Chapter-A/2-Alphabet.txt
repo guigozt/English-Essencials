@@ -5,7 +5,7 @@ D - Som: Di ->  Disc
 E - Som: I ->   Elephant
 F - Som: Éfi -> Family
 G - Som: Gi ->  Garege
-H - Som: Eiti ->    Helicopter
+H - Som: Eiti -> Helicopter
 I - Som: Ai ->  Industry
 J - Som: Jei -> Joker
 K - Som: Ki -> Kid
@@ -20,7 +20,7 @@ S - Som: Éssi -> Salt
 T - Som: Ti ->  Tiger
 U - Som: Iu ->  Umbrella
 V - Som: Vi ->  Voice
-W - Som: Double iu ->   Wallat
+W - Som: Double iu -> Wallat
 X - Som: Exi -> Xerox
 Y - Som: Uai -> Yes
 Z - Som: Zi ->  Zebra

@@ -19,7 +19,7 @@ Contraction form:
 Afirmativa:
     +   You are John
 
-* Desloca o "are" para o começo da frase
+* Desloca o verbo "are" para o começo da frase
 
 Interrogativa:
     ?   Are you John?

@@ -1,0 +1,15 @@
+2 - Complete the days of the week
+
+1 - S _ n _ a y
+2 - _ e _ n _ s d a y
+3 - _ o n _ _ _
+4 - _ a t u r _ _ _
+5 - T _  u _ _ _ a _
+
+Respostas:
+
+1 - Sunday
+2 - Wednesday
+3 - Monday
+4 - Saturday
+5 - Thursday
