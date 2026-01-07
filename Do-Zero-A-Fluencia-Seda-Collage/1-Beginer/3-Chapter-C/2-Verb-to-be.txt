@@ -1,0 +1,19 @@
+Full form:
+
+    + He is from Brazil
+    + She is from Brazil
+    + It is from Brazil
+
+    - He is not from France
+    - She is not from France
+    - It is not from France
+
+Constractions:
+
+    + He's from Brazil
+    + She's from Brazil
+    + It's from Brazil
+
+    - He's not from France  |   He isn't from France
+    - She's not from France |   She isn't from France
+    - It's not from France  |   It isn't from France

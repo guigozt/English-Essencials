@@ -1,0 +1,7 @@
++ He is from Australia
++ She is from Ireland
++ It is from Japan
+
+? Is he from Australia?
+? Is she from Ireland
+? Is it from Japan

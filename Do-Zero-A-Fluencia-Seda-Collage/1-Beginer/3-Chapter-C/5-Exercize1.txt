@@ -1,0 +1,12 @@
+Complete using "he, she or it"
+
+    1 - (Robert) _ 's from Spain
+    2 - (Jade) _'s from Japan
+    3 - (Jenny) _'s from Turkey
+    4 - (Snow-ball-cat) _'s from the U.S.A
+
+Repostas:
+    1 - (Robert) he's from Spain
+    2 - (Jade) she's from Japan
+    3 - (Jenny) she's from Turkey
+    4 - (Snowball-cat) It's from the U.S.A
