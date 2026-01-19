@@ -1,0 +1,13 @@
+Colours (Britânico) / Colors (Americano)
+
+- Black ->  Preto
+- White ->  Branco
+- Grey/Gray -> Cinza
+- Yellow -> Amarelo
+- Blue ->   Azul
+- Orange -> Laranja
+- Red ->    Vermelho
+- Purple -> Roxo
+- Green ->  Verde
+- Pink ->   Rosa
+- Brown ->  Marrom 
