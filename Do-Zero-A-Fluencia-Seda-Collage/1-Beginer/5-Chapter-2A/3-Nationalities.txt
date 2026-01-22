@@ -1,0 +1,20 @@
+Nationalities
+
+Countries | Nationalities
+-------------------------
+
+Brazil ->   Brazilian
+China ->    Chinese
+England ->  English
+The U.K ->  British
+The U.S.A -> American
+Japan ->    Janpanese
+Italy ->    Italian
+Mexico -> Mexican
+Poland ->   Polish
+Ireland ->  Irish
+Russia ->   Russian
+Spain ->    Spanish
+Turkey ->   Turkish
+Germany ->  German
+France ->   French   
