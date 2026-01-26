@@ -1,0 +1,11 @@
+Affirmative form:
+
+    + We are German
+    + You are German
+    + They are German
+
+Interrogative form:
+
+    ? Are we German?
+    ? Are you German?
+    ? Are they German?  

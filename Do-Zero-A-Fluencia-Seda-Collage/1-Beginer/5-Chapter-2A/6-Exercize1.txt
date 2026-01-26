@@ -1,0 +1,13 @@
+Exercize:
+
+    1. (You and Sarah) _ 're from the U.S.A.
+    2. (Leo and Daniel) _'re from Brazil.
+    3. (Lee and I) _'re Chinese.
+    4. (Jim and I) _'re American.
+
+Answer:
+
+    1. You're from the U.S.A.
+    2. They're from Brazil.
+    3. We're Chinese.
+    4. We're American.
