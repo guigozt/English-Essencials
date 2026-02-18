@@ -1,0 +1,10 @@
+Write the numbers:
+
+    52 ->   fifty-two   
+    42 ->   forty-two
+    89 ->   eighty-nine
+    72 ->   seventy-two
+    69 ->   sixty-nine
+    28 ->   twenty-eight
+    34 ->   thirty-four
+    92 ->   ninety-two

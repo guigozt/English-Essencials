@@ -6,5 +6,5 @@ We are English
     Jane: Excuse me. Are they free?
     Rachel: Yes! please sit down
     Jane: Thanks. I'm Jane
-    Joe: And I'm Joe. We're Australian?
-    Charlie: We're English. Nice to meeto you.
+    Joe: And I'm Joe. We're Australian
+    Charlie: We're English. Nice to meet you.

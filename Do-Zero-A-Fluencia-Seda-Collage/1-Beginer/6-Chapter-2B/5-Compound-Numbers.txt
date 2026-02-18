@@ -1,0 +1,11 @@
+Compound Numbers:
+
+    22 ->   twenty-two 
+    37 ->   thirty-seven
+    43 ->   forty-three
+    51 ->   fifty-one
+    65 ->   sixty-five
+    74 ->   seventy-four
+    89 ->   eighty-nine
+    96 ->   ninety-six
+    108 ->  one hundred and eight

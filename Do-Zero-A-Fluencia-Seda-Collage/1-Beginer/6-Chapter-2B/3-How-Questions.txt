@@ -1,0 +1,13 @@
+? + verb    |   Subject     |   Answer
+
+Who's       |     Tom?      |   He's a friend from work
+What's      |   Your name?  |   My name's Guilherme
+Where are   |   you from?   |   I'm from Brazil
+When's      |  the concert? |   It's on Wednesday
+How are     |     you?      |   I'm fine
+How old     |   are you?    |   I'm twenty-two years old
+
+Useful:
+
+    I'm fine... See you later ->    Vejo você depois
+    I'm fine... I'm late for school ->  Eu estou atrasado para a escola

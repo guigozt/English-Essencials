@@ -1,0 +1,9 @@
+How old are you?
+
+    How old are you ->  Quantos anos você tem?
+    When's the concert ->   Quando é o concerto (show)
+
+        Oliver: "Hi, Joe! When's the concert?"
+        Joe: "It's on Tuesday. But, how old are you?"
+        Oliver: "I'm twenty-two (22)"
+        Joe: "Uff.. It's fine"

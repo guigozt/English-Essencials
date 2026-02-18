@@ -1,0 +1,10 @@
+He's a friend from work
+
+    How are you ->  Como você está
+    Who's she ->    Quem é ela
+
+        Adam: "Hi, Sally! How are you?"
+        Sally: "Hello Adam! I'm fine!"
+        Adam: "And... Who's she?"
+        Sally: "Oh! This is Amy, a friend from work"
+        Amy: "Hi! Nice to meet you!"
