@@ -1,0 +1,13 @@
+Singular    |   Plural      | + / example
+------------------------------------------------
+A key       |   keys        | + S / They're keys
+A brush     |   brushes     | + ES / They're brushes
+A country   |   countries   | + IES / They're countries
+
+Adição de ES -> Palavras terminadas com:
+-   Sh
+-   Ch
+-   S
+-   Z
+-   X
+-   O

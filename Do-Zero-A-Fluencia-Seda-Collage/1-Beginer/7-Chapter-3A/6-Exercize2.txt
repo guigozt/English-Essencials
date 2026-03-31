@@ -1,0 +1,13 @@
+Put the words in the Plural
+
+    1.  Watch
+    2.  Country
+    3.  Umbrella
+    4.  Brush
+
+Ansewrs:
+
+    1.  Watch ->    Wathes  /   They're whatches
+    2.  Country ->  Countries / They're countries
+    3.  Umbrella -> Umbrellas / They're umbrellas
+    4.  Brush ->    Brushes /   They're brushes

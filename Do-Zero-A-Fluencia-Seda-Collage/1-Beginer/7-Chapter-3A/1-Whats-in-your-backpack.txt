@@ -1,0 +1,16 @@
+
+1 - Situation:
+
+    Purse: Bolsa
+
+    Police officer: "What's in your purse?"
+    Carol: "It's a mobile phone"
+    Police officer: "Oh, no problem"
+
+2 - Situation:
+
+    Backpack: Mochila
+    
+    Police officer: "What's in your backpack?"
+    Tony: "I have an umbrella, keys, brushes, and a laptop in my backpack"
+    Police officer: "You're ok. Bye"

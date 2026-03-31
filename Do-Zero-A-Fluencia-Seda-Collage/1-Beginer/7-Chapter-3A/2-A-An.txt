@@ -1,0 +1,13 @@
+A ->    Consonant Sound
+
+-   It's a key
+-   It's a credit card
+-   It's a wallet
+-   It's a university -> Sound: "you"
+
+An ->   Vowel Sound
+
+-   It's an orange
+-   It's an ID card
+-   It's an apple
+-   An hour ->  Sound: "our"
