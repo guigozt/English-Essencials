@@ -1,0 +1,16 @@
+                Near (Perto)        |        Far (Longe)
+-------------------------------------------------------------
+Singular        This                |        That
+                "Is this...?"       |        "What is that...?"
+
+Plural          These               |        Those
+                "Are these...?"     |        "What are those...?"
+
+
+Examples:
+
+1.  This is my phone     (Esse é o meu celular) ->  Near
+2.  These are my friends (Estes são meus amigos) -> Near
+
+3.  That is your car     (Aquele é o seu carro) ->  Far
+4.  Those are mountains  (Aquelas são montanhas) -> Far

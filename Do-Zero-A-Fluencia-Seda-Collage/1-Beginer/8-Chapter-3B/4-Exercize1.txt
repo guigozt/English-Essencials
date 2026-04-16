@@ -1,0 +1,15 @@
+Complete using this, these, that or those
+
+1.  What's _?       (near)
+2.  Are _ key rings (far)
+3.  Is _ a pencil?  (far)
+4.  Are _ t-shirts? (near)
+5.  What's are _?   (n)
+
+Answer:
+
+1.  What's this?        (near)
+2.  Are those key rings (far)
+3.  Is that a pencil?   (far)
+4.  Are these t-shirts? (near)
+5.  What's are these?   (near)

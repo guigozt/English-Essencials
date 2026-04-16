@@ -1,0 +1,11 @@
+Souvenirs
+
+    1.  A bag / bags            (bolsa)
+    2.  A mug / mugs            (xícara)
+    3.  A postcard / postcards  (cartão postal)
+    4.  A picture / pictures    (foto)
+    5.  A hat / hats            (boné)
+    6.  A T-shirt / T-shirts    (camiseta)
+    7.  A map / maps            (mapa)
+    8.  A key ring / key rings  (chaveiro)
+    9.  A flag / flags          (bandeira)
