@@ -1,0 +1,13 @@
+Write the prices
+
+1.  It's 5,20 (dollars)
+2.  It's 20,14 (euro)
+3.  They're 31,80 (pounds)
+4.  They're 95,95 (dollars)
+
+Answers:
+
+1.  It's five dollars and twenty cents
+2.  It's twenty euros and fourteen cents 
+3.  They're thirty-one pounds and eighty pence  
+4.  They're ninety-five dollars and ninety-five cents

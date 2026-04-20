@@ -1,0 +1,16 @@
+Currencies
+
+    -   euro / euros -> Moeda Euro
+    -   pounds ->       Moeda Libra
+    -   dollars ->      Moeda Dolar
+
+    Example 1:
+
+        How much is it? ->  It's five dollars and fifty cents
+        
+        -   Comum: I'ts five fifty ($5.50)
+
+    Example 2:
+        How much is it? ->  It's twelve pounds and seventy pence (12,70)
+
+        -   Comum: It's twelve seventy (£12.70)

@@ -1,0 +1,22 @@
+Can + How much
+
+    -   Can -> Posso
+            Usado para fazer pedidos de forma educada
+    -   How much -> Quanto custa
+            Perguntar o preço de algo
+
+    Example 1:
+
+        Barman: "Can I help you?"
+        Jim: "Can I have an orange juice, please?"
+        Barman: "There you go!"
+        Jim: "Thanks! How much is it?"
+        Barman: "It's five dollars"
+
+    -   Here's your change ->   Aqui está seu troco  
+
+    Example 2:
+
+         Barman: "Here's your change"
+         Jim: "Thanks! Have a nice day"
+         Barman: You too!
