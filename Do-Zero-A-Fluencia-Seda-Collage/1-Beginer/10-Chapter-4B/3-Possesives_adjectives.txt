@@ -1,0 +1,18 @@
+Possesive adjectives
+--------------------------------------
+
+I'm from Spain      |   My name's Juan
+You're English      |   Your name's Ben
+She's my friend     |   Her name's Giulia
+He's my friend      |   His name's Gustavo
+It's a fish         |   Its name's Nemo
+We're from Brasil   |   Our country is beautiful
+You're from Poland  |   Your country is cold
+They're from Mexico |   Their country is hot
+
+
+Possesive's
+---------------------
+
+Linda is Paul's wife
+Paul is  Linda's hunsband

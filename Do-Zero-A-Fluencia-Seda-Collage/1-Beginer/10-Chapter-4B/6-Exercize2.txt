@@ -1,0 +1,7 @@
+Answer according to the picture
+
+    1.  Linda/Paul      ->  Linda is Paul's wife
+    2.  Paul/William    ->  Paul is William's father
+    3.  Linda/Rachel    ->  Linda is Rachel's mother
+    4.  Rachel/William  ->  Rachel is William's sister
+    5.  William/Linda   ->  William is Linda's son

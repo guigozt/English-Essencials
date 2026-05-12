@@ -1,0 +1,18 @@
+Family!
+
+    Rachel is Linda's daughter
+    William is Paul's son
+    -------------------------------
+    Paul is Father      
+                    -> Parents
+    Linda is Mother
+    -------------------------------
+    Rachel is Sister
+                        -> Siblings
+    William is Brother
+    ------------------------------
+    Daughter
+            -> Children
+    Son
+
+

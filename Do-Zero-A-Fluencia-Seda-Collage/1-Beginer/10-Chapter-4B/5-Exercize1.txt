@@ -1,0 +1,15 @@
+Complete using P.adjectives
+
+    1.  I'm Irish.  _ name's Sean
+    2.  He's my friend. _ name's Jack
+    3.  They're Mexican.    _ names are Andre and Ben
+    4.  We are in room?.    This is _ key 
+    5.  She's my sister.    _ name's Kelly
+
+Answer
+
+    1.  I'm Irish. My name's Sean
+    2.  He's m friend. His name's Jack
+    3.  They're Mexican. Their names are Andre and Ben
+    4.  We are in room?. This is our key
+    5.  She's my sister. Her name's Kelly

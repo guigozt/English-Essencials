@@ -1,0 +1,20 @@
+Friends and relatives
+
+    1º Dialogue
+
+        Our -> Nossa/nosso
+        Husband ->  Marido/Esposo
+        Children -> Filhos
+
+        Her -> Dela
+        His -> Dele
+
+        Linda: "Hi Beth! Welcome to our house!
+                This is my husband, Paul. 
+                And these are our children.
+                Her name's Rachel and his name's William."
+
+        Beth: "Nice to meet you! And... What's its name?"
+        Linha: "His name's Gartic. He's a boy"
+
+        
