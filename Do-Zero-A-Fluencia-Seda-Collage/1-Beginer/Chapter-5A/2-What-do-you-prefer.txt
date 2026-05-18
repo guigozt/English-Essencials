@@ -1,0 +1,9 @@
+Question:
+-   "What do you prefer?"
+
+*   "do" é um auxiliar para perguntas
+
+Answers:
+    (City)  ->  I prefer small Cities
+    (Car)   ->  I prefer fast cars
+    (Book)  ->  I prefer long books

@@ -1,0 +1,21 @@
+What do you prefer?
+
+    Big         ->  Grande
+    Small       ->  Pequeno
+    New         ->  Novo
+    Old         ->  Antigo
+    Blue        ->  Azul
+    Fast        ->  Rápido
+    Slow        ->  Devagar
+    Tall        ->  Alto
+    Short       ->  Baixo
+    Cheap       ->  Barato
+    Expensive   ->  Caro
+
+    Examples:
+
+    -   Dublin isn't small. It's a big city
+    -   Here, houses are new. They're not Old
+    -   My car is blue and fast. It's not slow
+    -   I'm a tall me. I'm not short
+    -   Irish food isn't cheap. It's very expensive

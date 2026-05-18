@@ -1,0 +1,15 @@
+Make phrases using "It's, a/an or They're"
+
+    1.  (cars, old)
+    2.  (cities, big)
+    3.  (t-shirts, black)
+    4.  (glasses, expensive)
+    5.  (mobile, phone, blue)
+
+Answer:
+
+    1.  They're old cars
+    2.  They're big cities
+    3.  They're black t-shirts 
+    4.  They're expensive glasses 
+    5.  It's a blue mobile phone

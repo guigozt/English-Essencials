@@ -1,0 +1,6 @@
+Estrututas de usar os adjectives nas frases
+
+-   After the verb "be"     ->      A car is expensive
+-   Before a noun           ->      It's a fast car
+-   Singular = Plural       ->      It's an old house / They're old houses
+-   Same in - and ?         ->      Is it small? / They aren't small
