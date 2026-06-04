@@ -1,0 +1,16 @@
+Food: Breakfast
+
+    ham             ->  carne
+    cereal          ->  cereal
+    fruit           ->  frutas
+    yoghurt         ->  iogurte
+    bread           ->  pão
+    cheese          ->  queijo
+
+    espresso        ->  tipo de café
+    tea             ->  chá
+    hot milk        ->  leite quente
+    hot chocolate   ->  chocolate quente
+    juice           ->  suco
+    soup            ->  sopa
+    

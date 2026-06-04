@@ -1,0 +1,12 @@
+Present Simple
+
+    ->  Uso para coisas rotineiras, que se faz todo dia
+    ->  do ->   Auxiliar para negar (do not = don't)
+
+            +                       |             -
+    -------------------------------------------------------
+    I have eggs for breakfast       |   I don't have...
+    You have fruit for breakfast    |   You don't have...
+    We have coffee for breakfast    |   We don't have...
+    They have orange juice          |   They don't have
+        for breakfast

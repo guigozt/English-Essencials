@@ -1,0 +1,19 @@
+What do you have for breakfast?
+
+    -   Uso do have ->  Contexto: Comer ou beber
+    -   Healthy     ->  Saudável
+    -   A lot of    ->  Significa "muito"
+
+    "Hi, I'm Guilherme!
+    I have breakfast at home. I have cereal, fruit, and yoghurt, and I drink espresso coffee with hot milk.
+    I don't have eggs for breakfast.
+    I like my breakfast. It's very healthy"
+
+Outras refeições:
+
+    Breakfast   ->  Café da manhã
+    Brunch      ->  Combincação de café da manhã com almoço
+    Lunch       ->  Almoço
+    Dinner      ->  Jantar
+    Supper      ->  Ceia
+    Snack       ->  Lanche rápido
