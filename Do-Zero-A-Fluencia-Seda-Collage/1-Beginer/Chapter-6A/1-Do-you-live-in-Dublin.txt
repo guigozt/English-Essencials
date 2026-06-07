@@ -1,0 +1,14 @@
+    -   Do  ->  Auxiliar para perguntas em relação a coisas rotineiras
+
+    1.  Do you live in Dublin?
+        -   No, I don't
+    2.  Do you listen to pop music?
+        -   Yes, I do
+    3.  Do you need a new car?
+        -   No, I don't
+    4.  Do you read books?
+        -   Yes, I do
+    5.  Do you go to the cinema at weekends?
+        -   Yes, I do
+    6.  Do you watch TV?
+        -   Yes, I do

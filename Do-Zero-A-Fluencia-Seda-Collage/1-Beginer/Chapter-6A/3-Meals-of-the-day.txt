@@ -1,0 +1,19 @@
+Meals of the day:
+
+    1.  Breakfast   ->  Café da manhã
+        -   What do you have for breakfast?
+        -   I have eggs and juice for breakfast
+
+    2.  Brunch      ->  Combincação de café da manhã com almoço
+    
+    3.  Lunch       ->  Almoço
+        -   What do you have for luch?
+        -   They have rice, steak, beans and salad for lunch
+
+    4.  Dinner      ->  Jantar
+        -   What do you have for dinner?
+        -   I have soup for dinner
+
+    5.  Supper      ->  Ceia
+    
+    6.  Snack       ->  Lanche rápido
