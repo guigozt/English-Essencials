@@ -1,0 +1,47 @@
+📝 Present Simple (He, She, It)
+
+    When do we use it?
+    -   We use the Present Simple to talk about:
+
+    ✅ Habits
+    -   He drinks coffee every morning.
+
+    ✅ Routines
+    -   She goes to work by bus.
+
+    ✅ Facts
+    -   The Sun rises in the east.
+
+    ✅ Jobs and occupations
+    -   He works at Facebook.
+
+📝 The Rule
+
+    When the subject is:
+    -   He
+    -   She
+    -   It
+
+    The verb usually adds -s in affirmative sentences.
+
+    | Subject | Verb   |
+    | ------- | ------ |
+    | He      | works  |
+    | She     | speaks |
+    | It      | eats   |
+
+    Example:
+
+    | Subject |         +           |            -               |          ?              |
+    | ------- | ------------------- | -------------------------- | ----------------------- |
+    | He      | speaks English.     | doesn't speak English.     | Does he speak English?  |
+    | She     | speaks English.     | doesn't speak English.     | Does she speak English? |
+    | It      | eats dog food.      | doesn't eat dog food.      | Does it eat dog food?   |
+
+📌 Short Answers
+
+    | Question                | Positive       | Negative         |
+    | ----------------------- | -------------- | ---------------- |
+    | Does he work?           | Yes, he does.  | No, he doesn't.  |
+    | Does she speak English? | Yes, she does. | No, she doesn't. |
+    | Does it eat dog food?   | Yes, it does.  | No, it doesn't.  |

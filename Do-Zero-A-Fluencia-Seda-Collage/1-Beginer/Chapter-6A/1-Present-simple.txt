@@ -1,0 +1,66 @@
+📚 Present Simple (I, You, We, They)
+
+    When do we use it?
+    -   We use the Present Simple to talk about:
+
+    ✅ Habits
+    -   I drink coffee every morning.
+
+    ✅ Routines
+    -   We go to school by bus.
+
+    ✅ Facts
+    -   They live in Brazil.
+
+    ✅ Likes and preferences
+    -   You like pop music.
+
+📝 The Rule
+    
+    For these subjects:
+    -   I
+    -   You
+    -   We
+    -   They
+
+    The verb stays in its base form.
+    Unlike He, She, It, we do not add "s".
+
+    | Subject | Verb   |
+    | ------- | ------ |
+    | I       | work   |
+    | You     | work   |
+    | We      | work   |
+    | They    | work   |
+
+    Example:
+
+    | Subject |         +           |            -               |          ?              |
+    | ------- | ------------------- | -------------------------- | ----------------------- |
+    | I       | live in Brazil.     | don't live in Brazil       | Do i live in Brazil?    |
+    | You     | live in Brazil      | don't live in Brazil       | Do you live in Brazil?  |
+    | We      | live in Brazil      | don't live in Brazil       | Do we live in Brazil?   |
+    | They    | live in Brazil      | don't live in Brazil       | Do they live in Brazil? |
+
+📌 Short Answers
+
+    | Question               | Positive      | Negative        |
+    | ---------------------- | ------------- | --------------- |
+    | Do you live in Brazil? | Yes, you do.  | No, you don't.  |
+    | Do they watch TV?      | Yes, they do. | No, they don't. |
+    | Do we need a new car?  | Yes, we do.   | No, we don't.   |
+    | Do I read books?       | Yes, I do.    | No, I don't.    |
+
+💡 The Auxiliary Verb "Do"
+
+    In the Present Simple, do helps us make questions and negative sentences.
+
+    Questions
+    -   Do you speak English?
+    -   Do they work here?
+
+    Negatives
+    -   I don't speak English.
+    -   We don't work here.
+
+    ⚠️ Do does not have a meaning here. It only helps build the sentence.

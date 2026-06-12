@@ -1,0 +1,16 @@
+🍴 Asking About Meals
+
+    A common pattern is:
+    -   What do you have for + meal?
+
+    Examples
+    -   What do you have for breakfast?
+    -   What do you have for lunch?
+    -   What do you have for dinner?
+
+    Possible answers
+    -   I have + food + for + meal.
+
+    -   I have eggs for breakfast.
+    -   I have rice and beans for lunch.
+    -   I have soup for dinner.
