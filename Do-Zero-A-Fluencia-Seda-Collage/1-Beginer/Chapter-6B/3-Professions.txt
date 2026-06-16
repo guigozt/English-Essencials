@@ -1,0 +1,12 @@
+Professions
+
+    -   an architect
+    -   a doctor
+    -   a journalist
+    -   a waiter (male) / waitress (female)
+    -   a shop assistant
+    -   a receptionist
+    -   a police man
+    -   a police woman
+    -   a nurse
+    -   a taxi driver

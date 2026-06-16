@@ -1,0 +1,42 @@
+📝 Spelling Rules – Third Person Singular (Simple Present)
+
+    When the subject is he, she, or it, the verb usually changes.
+
+    1. Add -s
+        Rule: Most verbs → + s
+
+        | Base form         | Third person        |
+        | ----------------- | ------------------- |
+        | I live in Brazil. | He lives in Brazil. |
+        | I work here.      | She works here.     |
+        | I play soccer.    | It plays soccer.    |
+
+    2. Add -es
+        Rule: Verbs ending in ch, sh, ss, x, z, o → + es
+
+        | Base form          | Third person          |
+        | ------------------ | --------------------- |
+        | I watch TV.        | She watches TV.       |
+        | I wash the dishes. | He washes the dishes. |
+        | I kiss my dog.     | She kisses her dog.   |
+        | I fix the car.     | He fixes the car.     |
+        | I go to school.    | She goes to school.   |
+
+    3. Change -y to -ies
+        Rule: Consonant + y → remove y and add ies.
+
+        | Base form        | Third person        |
+        | ---------------- | ------------------- |
+        | I study History. | He studies History. |
+        | I carry a bag.   | She carries a bag.  |
+        | I try my best.   | He tries his best.  |
+
+
+⚠️ Exception:
+    If the verb ends in a vowel + y, just add -s
+
+    | Base form      | Third person      |
+    | -------------- | ----------------- |
+    | I play soccer. | He plays soccer.  |
+    | I enjoy music. | She enjoys music. |
+    | I buy books.   | He buys books.    |
