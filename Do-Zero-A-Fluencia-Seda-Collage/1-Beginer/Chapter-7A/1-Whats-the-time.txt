@@ -1,0 +1,88 @@
+🕒 What's the time?
+
+    📚 Common Questions
+
+    | Question         | Meaning                                            |
+    | ---------------- | -------------------------------------------------- |
+    | What time is it? | Que horas são?                                     |
+    | What's the time? | Que horas são? *(More common in British English.)* |
+
+
+💬 Dialogue
+
+**John:** *What's the time, Paul?*
+**Paul:** *It's half past eight. Do you need to go?*
+**John:** *Yes, I have a meeting in Dublin tomorrow morning at a quarter to eight... 
+            or eight o'clock... I can't remember.*
+
+⏰ O'Clock
+    Use **o'clock** when the minutes are **00**.
+
+    | Time  | Expression           |
+    | ----- | -------------------- |
+    | 1:00  | It's one o'clock.    |
+    | 2:00  | It's two o'clock.    |
+    | 5:00  | It's five o'clock.   |
+    | 8:00  | It's eight o'clock.  |
+    | 12:00 | It's twelve o'clock. |
+
+🕒 Past
+    Use **past** when the minutes are **from 01 to 30**.
+
+    | Time | Expression                   |
+    | ---- | ---------------------------- |
+    | 5:10 | It's ten past five.          |
+    | 3:20 | It's twenty past three.      |
+    | 7:25 | It's twenty-five past seven. |
+
+    💡 **Past = after the hour.**
+
+🕒 To
+    Use **to** when the minutes are **from 31 to 59**.
+
+    | Time | Expression             |
+    | ---- | ---------------------- |
+    | 5:40 | It's twenty to six.    |
+    | 5:45 | It's a quarter to six. |
+    | 2:50 | It's ten to three.     |
+    | 2:55 | It's five to three.    |
+
+    💡 **To = before the next hour.**
+
+⌚ Quarter
+    A **quarter** means **15 minutes**.
+
+    | Time  | Expression                 |
+    | ----- | -------------------------- |
+    | 5:15  | It's a quarter past five.  |
+    | 7:15  | It's a quarter past seven. |
+    | 5:45  | It's a quarter to six.     |
+    | 11:45 | It's a quarter to twelve.  |
+
+    📌 **Quarter = 15 minutes**
+
+⌚ Half
+    **Half** means **30 minutes**.
+
+    | Time  | Expression            |
+    | ----- | --------------------- |
+    | 7:30  | It's half past seven. |
+    | 10:30 | It's half past ten.   |
+    | 1:30  | It's half past one.   |
+
+    📌 **Half = 30 minutes**
+
+📝 More Examples
+
+    | Digital Time | Spoken Time                 |
+    | ------------ | --------------------------- |
+    | 02:05        | It's five past two.         |
+    | 03:10        | It's ten past three.        |
+    | 03:21        | It's twenty-one past three. |
+    | 04:15        | It's a quarter past four.   |
+    | 07:30        | It's half past seven.       |
+    | 08:35        | It's twenty-five to nine.   |
+    | 02:47        | It's thirteen to three.     |
+    | 09:50        | It's ten to ten.            |
+    | 11:55        | It's five to twelve.        |
+

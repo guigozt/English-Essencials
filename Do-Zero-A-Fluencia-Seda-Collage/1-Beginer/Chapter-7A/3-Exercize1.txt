@@ -1,0 +1,15 @@
+Write the time (use to, past half or o'clock)
+
+    1.  06:00 am
+    2.  07:30 am
+    3.  02:15 pm
+    4.  06:45 pm
+    5.  01:20 pm
+
+Answers:
+
+    1.  06:00 am    ->  It's six o'clock
+    2.  07:30 am    ->  Its half past seven
+    3.  02:15 pm    ->  It's a quarter past two
+    4.  06:45 pm    ->  It's a quarter to seven
+    5.  01:20 pm    ->  It's twenty past one

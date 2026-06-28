@@ -1,0 +1,55 @@
+🌅 Daily Routine & Periods of the Day
+
+📚 Periods of the Day
+
+    | Period       | Typical Time           | Example           |
+    | ------------ | ---------------------- | ----------------- |
+    | 🌅 Morning   | 6:00 a.m. – 12:00 p.m. | I have breakfast. |
+    | 🌞 Afternoon | 12:00 p.m. – 6:00 p.m. | I have lunch.     |
+    | 🌆 Evening   | 6:00 p.m. – bedtime    | I watch TV.       |
+    | 🌙 Night     | After the evening      | I sleep at night. |
+
+⏰ Important Times
+
+    | Time           | Meaning                    |
+    | -------------- | -------------------------- |
+    | **12:00 a.m.** | Midnight *(meia-noite)*    |
+    | **6:00 a.m.**  | Morning begins             |
+    | **12:00 p.m.** | Midday / Noon *(meio-dia)* |
+    | **6:00 p.m.**  | Evening begins             |
+
+    📌 Remember
+
+        | a.m.            | p.m.            |
+        | --------------- | --------------- |
+        | Midnight → Noon | Noon → Midnight |
+
+☀️ Daily Routine
+
+    | In the Morning 🌅 | In the Afternoon 🌞 | In the Evening 🌆 |
+    | ----------------- | ------------------- | ----------------- |
+    | I get up.         | I have lunch.       | I make dinner.    |
+    | I have breakfast. | I have a coffee.    | I have dinner.    |
+    | I have a shower.  | I finish work.      | I watch TV.       |
+    | I get dressed.    | I go home.          | I go to bed.      |
+
+📝 Common Verbs
+
+    | Verb   | Meaning     | Example                 |
+    | ------ | ----------- | ----------------------- |
+    | get up | levantar-se | I get up at 6 a.m.      |
+    | have   | tomar/comer | I have breakfast.       |
+    | go     | ir          | I go to work.           |
+    | finish | terminar    | I finish work at 5 p.m. |
+    | make   | preparar    | I make dinner.          |
+    | watch  | assistir    | I watch TV.             |
+    | sleep  | dormir      | I sleep at night.       |
+
+👋 Greetings
+
+    | Greeting       | When?                    | Portuguese                           |
+    | -------------- | ------------------------ | ------------------------------------ |
+    | Good morning   | Morning                  | Bom dia                              |
+    | Good afternoon | Afternoon                | Boa tarde                            |
+    | Good evening   | Arriving in the evening  | Boa noite *(ao chegar)*              |
+    | Good night     | Leaving / Going to sleep | Boa noite *(ao ir embora ou dormir)* |
