@@ -1,0 +1,80 @@
+📚 Adverbs of Frequency
+    Adverbs of Frequency tell us how often an action happens.
+    They are commonly used with the Present Simple to describe habits, routines, and repeated actions.
+
+📊 Common Adverbs of Frequency
+
+    | Adverb    | Meaning                  | Approximate Frequency |
+    | --------- | ------------------------ | --------------------: |
+    | Always    | Sempre                   |                  100% |
+    | Usually   | Geralmente / Normalmente |                80–90% |
+    | Sometimes | Às vezes                 |                40–50% |
+    | Never*    | Nunca                    |                    0% |
+
+📝 Sentence Structure
+
+    For most verbs:
+    
+    Subject + Adverb + Verb
+       I      always    get up early.
+      She     usually   studies at night.
+      They   sometimes  eat out.
+
+    📌 The adverb usually comes before the main verb.
+
+    ❗ Exception: Verb "To Be"
+    
+    When using to be, the adverb comes after the verb.
+
+    | Correct                | Incorrect                |
+    | ---------------------- | ------------------------ |
+    | She is always happy.   | She always is happy. ❌   |
+    | They are usually late. | They usually are late. ❌ |
+
+1. Always
+    -   Meaning: Sempre
+    -   Used for actions that happen all the time or almost all the time.
+
+    Question:
+    -   What time do you get up?
+
+    Answer:
+    -   I always get up at 7 o'clock because I start work at 8.
+
+    More Examples
+    
+    Question:
+    -   What time do you go to school?   
+
+    Answer:
+    -   I always go to school at 7 o'clock (p.m) But I hate it. I never late.
+
+2. Usually
+    -   Meaning: Geralmente / Normalmente
+    -   Used for actions that happen most of the time.
+
+    Question:
+    -   Do you have a shower in the morning?
+
+    Answer:
+    -   I usually have a shower in the morning.
+
+    More Examples
+    -   I usually go to bed at 11 p.m.
+    -   They usually have lunch at home.
+    -   He usually watches TV after dinner.
+
+3. Sometimes
+    -   Meaning: Às vezes
+    -   Used for actions that happen occasionally.
+
+    Question:
+    -   Where do you have breakfast?
+
+    Answer:
+    -   I sometimes have breakfast at home or at work.
+
+    More Examples
+    -   I sometimes read before bed.
+    -   She sometimes goes to the cinema.
+    -   We sometimes eat pizza on Fridays.

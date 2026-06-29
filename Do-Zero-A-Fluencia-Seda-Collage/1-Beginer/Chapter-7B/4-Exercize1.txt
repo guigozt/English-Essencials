@@ -1,0 +1,13 @@
+Use Always, usually, sometimes or never
+
+    1.  I _ (90%) go to work at 9
+    2.  My wife _ (100%) has juice for breakfast
+    3.  We _ (50%) go to the cinema
+    4.  He _ (0%) drinks coffee
+
+Answers
+
+    1.  I usually (90%) go to work at 9
+    2.  My wife always (100%) has juice for breakfast
+    3.  We sometimes (50%) go to the cinema
+    4.  He never (0%) drinks coffee
