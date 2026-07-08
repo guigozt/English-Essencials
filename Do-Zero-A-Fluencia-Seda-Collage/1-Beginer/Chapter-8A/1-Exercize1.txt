@@ -1,0 +1,15 @@
+Order the words to make question
+
+    1.  children / sushi / do / your / like
+    2.  is / how / family / your
+    3.  you / is / this / phone
+    4.  does / where / live / sister / your
+    5.  how / relax / you / at / do / weekends
+
+Answers:
+
+    1.  Do your children like sushi?
+    2.  How is your family?
+    3.  Is this you phone?
+    4.  Where does your sister live?
+    5.  How do you relax at weekends?

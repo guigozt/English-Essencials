@@ -1,0 +1,10 @@
+Question with Present Simple
+
+    ? Wh-How    |   Auxiliary   |   Subject     |  Infinitive (verb)
+    -------------------------------------------------------------------
+                |   Do          |   You        |    Speak English?
+    Where       |   Do          |   You        |    live?
+    What        |   Does        |  your Mother |    do?
+    What music  |   Do          |   You        |    like?
+    When        |   Does        |   George     |    go to the cinema?
+    How         |   Do          |   You        |    spell it? 

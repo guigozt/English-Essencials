@@ -1,0 +1,22 @@
+1.  action film
+2.  animation
+3.  horror film
+4.  comedy
+5.  western
+6.  drama
+
+a.  Aliens x Cowboys
+b.  Die Hard
+c.  Frozen
+d.  Mother!
+e.  Scream
+f.  Dumb and Dumber
+
+Answers:
+
+    a.  Aliens x Cowboys (5)
+    b.  Die Hard (1)
+    c.  Frozen (2)
+    d.  Mother! (6)
+    e.  Scream (3)
+    f.  Dumb and Dumber (4)

@@ -1,0 +1,8 @@
+Kinds of films
+
+    1.  An action movie
+    2.  A comedy
+    3.  An animations
+    4.  A western
+    5.  A horror film
+    6.  A drama

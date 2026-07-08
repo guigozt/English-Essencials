@@ -1,0 +1,11 @@
+Object Pronouns
+
+    Subject pronoun         |   Object pronoun
+    ----------------------------------------------------------
+    I'm your teacher        |   Listen to me
+    You're beutiful         |   I love you
+    He goes to my gym       |   I see him every week
+    She never listens       |   Don't talk to her
+    It's a nice coat        |   I want it for x-mas
+    We aren't friends       |   They don't talk to us
+    They're good books      |   I want to read them

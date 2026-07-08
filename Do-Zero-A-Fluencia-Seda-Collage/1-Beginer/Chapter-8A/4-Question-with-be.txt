@@ -1,0 +1,10 @@
+Question with be
+
+    ? Wh-How    |   Verb        |   Subject     |
+    -------------------------------------------------------------------
+                |   Are         |   They        |   American?
+                |   Is          |   This        |   your coat?
+    How old     |   Are         |   You?        |
+    Where       |   Are         |   You         |   from?
+    What time   |   Is          |   It?         |
+    Why         |   Are         |   You         |   late? 
