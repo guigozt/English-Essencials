@@ -1,0 +1,23 @@
+Write the ordinal numbers
+
+    1.  1st:
+    2.  23rd:
+    3.  28th:
+    4.  13th:
+    5.  31th:
+    6.  11th:
+    7.  30th:
+    8.  15th:
+    9.  20th:
+
+Answers:
+
+    1.  1st:    first
+    2.  23rd:   twenty-third
+    3.  28th:   twenty-eighth
+    4.  13th:   thirteenth
+    5.  31th:   thirty-first
+    6.  11th:   eleventh
+    7.  30th:   thirtieth
+    8.  15th:   fifteenth
+    9.  20th:   twentieth

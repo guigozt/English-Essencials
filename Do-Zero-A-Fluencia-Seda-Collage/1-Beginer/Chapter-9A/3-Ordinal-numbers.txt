@@ -1,0 +1,17 @@
+Ordinal Number
+
+    1st first       |   11th eleventh       |   21 twenty-first
+    2nd second      |   12th twenth         |   22 twenty-second
+    3rd third       |   13th thirteenth     |   22 twenty-third
+    4th fourth      |   14th fourteenth     |   24 twenty-fourth
+    5th fifth       |   15th fifteenth      |   25 twenty-fifth
+    6th sixth       |   16th sixteenth      |   26 twenty-sixth
+    7th seventh     |   17th seventeenth    |   27 twenty-seventh
+    8th eighth      |   18th eigthteenth    |   28 twenty-eighth
+    9th ninth       |   19th nineteenth     |   29 twenty-ninth
+    10th tenth      |   20th twentieth      |   30 thirtieth
+
+    Examples:
+
+    -   My birthday is in February
+    -   My birthday is on twelth of the February

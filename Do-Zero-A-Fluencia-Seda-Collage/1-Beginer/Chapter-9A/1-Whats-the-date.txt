@@ -1,0 +1,6 @@
+Dialogue:
+
+    Robert: "What's the date today?"
+    Alan: "I think it's the fouth (4th) of June"
+    Robert: "Are you sure? Isn't it the third (3rd)?"
+    Alan: "I'm sure. Today is my father's birthday. And my birthday is in June as well"
