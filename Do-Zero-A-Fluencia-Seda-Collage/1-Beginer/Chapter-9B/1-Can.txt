@@ -1,0 +1,23 @@
+Use of Can
+
+Dialogue:
+
+    Instructor: "Hi, How can I help you?"
+    Anna:   "Can I book some drive lessons?"
+    Instructor: "Yes, of corse! When can you start?" 
+    Anna:   "On Monday? Can you come at 9:30?"
+    Instructor: "No I can't, but I can come at 10:30"
+    Anna: "OK, See you on Monday at 10:30"
+
+Can - permission / abilily
+
+    Permission                                                  |           Abiliy
+    ------------------------------------------------------------------------------------
+    You can swim here / You can't swim here                     |   You can swim / She can't swim   
+    They can take photos here / They can't take photos here     |   She can take great photos / She can't take good photos
+    We can drive here / We can't drive here                     |   I can drive very well / I can't drive very well
+
+Short-answers
+
+    Can I take photos in the museum?                ->  Yes, you can / No, you can't
+    Can I pay by credit car in the bars and pubs?   ->  Yes, you can / No, you can'take
