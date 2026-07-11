@@ -1,0 +1,17 @@
+Dialogue:
+
+    Tourist: "Excuse me! Where's the bank?"
+    Police officer: "Oh, The bank on the corner of King Street and Queen Street"
+    Tourist: "Great! And... Where's the restaurant?"
+    Police officer: "It's next to the train station"
+
+Asking for directions and places
+
+    | Expression           | Meaning                     | Example                                                                 |
+    | -------------------- | --------------------------- | ----------------------------------------------------------------------- |
+    | **between**          | entre                       | The bar is **between** the bank and the gym.                            |
+    | **on the left**      | à esquerda                  | The gym is **on the left side of Jack Street.**                         |
+    | **on the right**     | à direita                   | The hotel is **on the right side of Jack Street.**                      |
+    | **opposite**         | em frente a / do outro lado | The restaurant is **opposite** the bar.                                 |
+    | **next to**          | ao lado de                  | The train station is **next to** the hospital.                          |
+    | **on the corner of** | na esquina de               | The train station is **on the corner of Queen Street and King Street.** |
