@@ -1,0 +1,14 @@
+Activities
+
+    1.  camping
+    2.  buying
+    3.  cooking
+    4.  cycling
+    5.  flying
+    6.  going to the cinema
+    7.  reading
+    8.  swimming
+    9.  running
+    10. painting
+    11. travelling
+    12. watching 

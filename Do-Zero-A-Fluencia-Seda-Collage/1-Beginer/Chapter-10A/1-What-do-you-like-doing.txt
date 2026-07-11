@@ -1,0 +1,20 @@
+What do you like doing?
+
+    1.  I like reading in my free time
+    2.  I don't like going to the gym
+    3.  I love going out with my friends
+    4.  I hate getting up early
+
+Verb + ing
+
+    Infinite    |   Verb + ing              |   Spelling
+    -----------------------------------------------------------------------
+    read        | I like reading            |   + ing
+    fly         | You like flying           |   + ing
+    ------------------------------------------------------------------------
+    cycle       | He loves cycling          |   -e +ing
+    drive       | They hate driving         |   -e +ing
+    ------------------------------------------------------------------------
+    swim        | We like swimming          |   one vowel + one consonant = 
+    shop        | She doesn't like shopping |   double consonant + ing
+
