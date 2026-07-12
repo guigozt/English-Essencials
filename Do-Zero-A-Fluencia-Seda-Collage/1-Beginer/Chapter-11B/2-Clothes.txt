@@ -1,0 +1,14 @@
+Clothes
+
+    | Clothing             | Meaning (PT-BR)        | Example                               |
+    | -------------------- | ---------------------- | ------------------------------------- |
+    | **dress**            | vestido                | She is wearing a beautiful dress.     |
+    | **sweater**          | suéter / blusa de frio | I wear a sweater when it's cold.      |
+    | **shirt**            | camisa                 | He wears a white shirt to work.       |
+    | **skirt**            | saia                   | She is wearing a black skirt.         |
+    | **jacket**           | jaqueta                | Don't forget your jacket.             |
+    | **T-shirt**          | camiseta               | I usually wear a T-shirt and jeans.   |
+    | **suit**             | terno                  | He is wearing a suit for the meeting. |
+    | **shoes**            | sapatos                | My shoes are new.                     |
+    | **jeans**            | calça jeans            | I wear jeans every day.               |
+    | **trousers** *(BrE)* | calças                 | He is wearing black trousers.         |

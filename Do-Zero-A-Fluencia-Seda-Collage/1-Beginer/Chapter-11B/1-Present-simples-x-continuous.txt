@@ -1,0 +1,20 @@
+Dialogue:
+
+    Andy: "Where are you working now?"
+    Ben: "I usually work at the bar on Mondays,
+            cleaning the dishes. But, today is Tuesday.
+            I working at the office"
+    Andy: "Oh! That's why you always wear shoes, black trousers, a shirt and jacket on Tuesday"
+
+Present Simple x Present Continuous
+
+Present Simple:
+        
+        I work in an office. I usually wear a suit     
+        (normally true)         (rotine)
+
+Present Continuous:
+
+        I working at home. I'm wearning jeans
+        (at the moment)
+        
