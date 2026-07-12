@@ -1,0 +1,14 @@
+Travelling:
+
+    | Expression            | Meaning (PT-BR)                           | Notes                                                                        |
+    | --------------------- | ----------------------------------------- | ---------------------------------------------------------------------------- |
+    | **leave the house**   | sair de casa                              | *Leave* = sair / deixar.                                                     |
+    | **get a cab / taxi**  | pegar um táxi                             | Também pode ser **take a taxi**, que é muito comum.                          |
+    | **wait for a flight** | esperar um voo                            | Sempre usamos **wait for** + algo/alguém.                                    |
+    | **arrive at a hotel** | chegar a um hotel                         | Usamos **arrive at** para lugares específicos.                               |
+    | **stay in a hotel**   | ficar / hospedar-se em um hotel           | *Stay* = permanecer / hospedar-se.                                           |
+    | **phone home**        | ligar para casa                           | Não é **house**, e sim **home**, pois significa "ligar para casa (família)". |
+    | **pack a suitcase**   | fazer a mala                              | Literalmente: arrumar uma mala.                                              |
+    | **buy presents**      | comprar presentes                         | *Present* = presente (gift).                                                 |
+    | **book tickets**      | reservar / comprar passagens ou ingressos | *Book* = reservar.                                                           |
+    | **rent a car**        | alugar um carro                           | No inglês britânico, também é comum **hire a car**.                          |
