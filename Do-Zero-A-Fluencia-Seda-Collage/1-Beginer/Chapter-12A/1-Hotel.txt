@@ -1,0 +1,20 @@
+Dialogue
+
+    Karen: "Is there a room for tonight?"
+    Recepcionist: "Let's see...Yes! There isn't a room on the first floor. But, there's a room on the second"
+    Karen: "Great! What do we have in the room? Are there any cups?"
+    Recepcionist: "There are some towels in the bathroom, the remote control is on the night stand next to the bed.
+                    And there are some extra pillows under the bed. There aren't any cups. You can get in the reception"
+
+There Is / Are
+
+        |   Singular                            |       Plural   
+    ----------------------------------------------------------------------------------------
+    +   |   There is a TV                       |   There are some towels
+        |   There is a shower                   |   There are two apples
+    -----------------------------------------------------------------------------------------
+    -   |   There isn't a phone                 |   There aren't any books
+        |   There isn't an orange               |   There aren't any flags
+    -----------------------------------------------------------------------------------------
+    ?   |   Is there a bed? Yes, there is       |   Are there any mugs? Yes, there are
+        |   Is there a table? No, there isen't  |   Are there any oranges? No, there aren't

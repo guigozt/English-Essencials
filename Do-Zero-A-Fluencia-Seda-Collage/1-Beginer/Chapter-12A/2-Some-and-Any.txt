@@ -1,0 +1,10 @@
+Any x Some
+
+    -   Use in phrases plural
+
+    Any:
+    -   There aren't any towels in the bathroom
+    ?   Are there any towels in the bathroom?
+
+    Some:
+    +   There are some towels in the bathroom
