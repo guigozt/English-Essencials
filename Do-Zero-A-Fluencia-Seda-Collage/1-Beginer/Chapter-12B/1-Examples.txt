@@ -1,0 +1,12 @@
+1rt Example:
+
+    "I'm a teacher now, but I was a waiter in the past. I used to work in a restaurant.
+        It was on/in King's Street. My bosses were very friendly. They weren't abusive. 
+        All in all it wasn't that bad."
+
+2nd Example:
+
+    Where were you at 7 o'clock?
+    -   I was at home/school/work/the university
+    -   I was in a bar/my car/a café/a museaum
+    -   I was on a bus/a train/a plane

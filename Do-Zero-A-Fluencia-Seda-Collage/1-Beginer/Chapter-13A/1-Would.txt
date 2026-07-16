@@ -1,0 +1,23 @@
+1rt Situaction
+
+    Carlos: "Would you like to come to the match with me on Sunday?
+            It's Brazil against Peru and I have two tickets!"
+    Daniel: "Yes, I'd love to / No, I can't"
+
+2nd Situaction
+
+    Daniel: "Would you like a beer? It's on me!"
+    Carlos: "Yes, please / No thanks"
+    Daniel: "I'd like a beer, please... Sorry, two beers!"
+    Barman: "All right! Anything else?"
+    Daniel: "No that's all"
+
+Offer x Invitations
+
+    Offer:
+    -   Would you like + noun
+    -   Woul you like a pizza?
+
+    Invivations:
+    -   Would you like to
+    -   Would you like to come to a party on Sunday?
