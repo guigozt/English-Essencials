@@ -1,0 +1,23 @@
+Voicelles (T)
+    P, K, F, GH, SH, CH, SS, C, X
+
+    -   finished
+    -   stopped
+    -   liked
+    -   talked
+
+Voiced (D)
+    L, N, R, G, V, S, Z, B, M
+
+    -   loved
+    -   used
+    -   offered
+    -   lived
+
+T and D (id)
+    T, D
+
+    -   wanted
+    -   needed
+    -   started
+    -   decided

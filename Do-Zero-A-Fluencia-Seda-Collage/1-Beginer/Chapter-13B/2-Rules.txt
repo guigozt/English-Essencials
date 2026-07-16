@@ -1,0 +1,13 @@
+Spelling rules for regular Verbs
+
+work        |   worked      |   verb + ed
+finish      |   finished    |   verb + ed
+--------------------------------------------------------------
+live        |   lived       |   verb + d
+change      |   changed     |   verb + d
+--------------------------------------------------------------
+cry         |   cried       |   -y + ied
+study       |   studied     |   -y + ied
+--------------------------------------------------------------
+stop        |   stopped     |   consonant + vowel + consonant
+travel      |   travelled   |   2x final consonant + ed

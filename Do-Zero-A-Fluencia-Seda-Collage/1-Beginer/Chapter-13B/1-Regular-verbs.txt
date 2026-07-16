@@ -1,0 +1,23 @@
+Example:
+
+    -   I always wanted to study abroad
+    -   I talked to my father about it, and he answered: 'Go for it'
+    -   My parents helped me with the money
+    -   First, I wanted to go to the U.K, but it was very expansive and I didn't like the weather
+    -   So, I decided to go to Dublin and started classes in Jan of 2010
+
+Past Simple: Regular Verbs
+
+
+    I   |   finised     |   didn't finish
+    You |   arrived     |   didn't arrive
+    He  |   wanted      |   didn't want
+    She |   liked       |   didn't like
+    It  |   rained      |   didn't rain
+    We  |   studied     |   didn't study
+    They|   stopped     |   didn't stop
+
+Question:
+
+    ?   Did you finish the book?
+    *   I did   /   I didn't
