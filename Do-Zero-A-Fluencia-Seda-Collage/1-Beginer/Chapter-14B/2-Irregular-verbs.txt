@@ -1,0 +1,10 @@
+Irregular Verbs:
+
+    -   see ->  saw
+    -   say ->  said
+    -   sit ->  sat
+    -   buy ->  bought
+    -   send -> sent
+    -   pay ->  paid
+    -   write -> wrote
+    -   tell -> told
