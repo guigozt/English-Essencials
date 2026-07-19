@@ -1,0 +1,30 @@
+Physical Appearence Adjectives
+
+    This is Paul:
+        -   He's 1,90 cm. He's tall
+        -   He's skinny. He isn't chubby
+        -   He's 69 years old. He's old.
+        -   He has short wavy gray hair
+        -   He's becomming bald
+        -   He has big brown eyes, a small nose and big ears
+
+    This is Carlos:
+        -   He's 1,85 cm. He's tall
+        -   He's chubby. He isn't slim
+        -   He's 25 years old. He's young
+        -   He has short wavy brown hair
+        -   He has big black eyes, a big nose and small ears
+
+    This is Anna:
+        -   She's 1,65 cm. She's short
+        -   She's slim
+        -   She's 16 years old. She's really young
+        -   She has short curly brown hair.
+        -   She has small black eyes, a big nose and small ears
+
+    This is Mary:
+        -   She's 1,55 cm. She's really short
+        -   She's quite slim
+        -   She's 17 years old. She's really young
+        -   She has short straight red hair
+        -   She has small black eyes, a long nose and big ears
