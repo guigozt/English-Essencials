@@ -1,0 +1,29 @@
+What's your name again?
+
+    1rt Example:
+
+        "Hi, my name's Raphael and I'm 34 years old. I was born in 1985.
+            I'm a teacher and I work in a school. I'm a quite easy-going and friendly.
+            I'm from Belo Horizonte in Brazil, but I live in Dublin now.
+            My favorite food is pizza, and I love going out with my friends.
+            They're really cool and funny."
+
+    2nd Example:
+        
+        "This is Rachel and she's 29 years old. She was born in 1990.
+            She's a lawyer and she works in an office. She's quite polite and shy.
+            She's from London, in The U.K. but she lives in Dublin now.
+            Her favorite food is pasta, and she loves reading, specially fantasy books."
+
+Personality adjectives
+
+        +       |       -
+    -----------------------------
+    friendly    |   unfriendly
+    easy-going  |   uptight
+    confident   |   shy
+    funny       |   serious
+    polite      |   rude
+    active      |   lazy
+    cheerful    |   moody
+    tidy        |   untidy

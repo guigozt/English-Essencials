@@ -1,0 +1,13 @@
+Use the model below to describe yourself
+
+    "Hi, my name's _. I was born in _. So, I'm _ years old.
+        I'm _ _ and I work in _ _. I'm quite _ and _.
+        I'm from _, in Brazil, but I live in Dublin now
+        My favorite food is _ and I love _"
+
+Answer:
+
+    Hi, my name's Guilherme. I was born in 2004. So, I'm 22 years old.
+    I'm a student and I work in a hospital. I'm quite easy-going and funny.
+    I'm from São Paulo in Brazil, but I live in Dublin now.
+    My favorite food is pizza and I love watching movies.
