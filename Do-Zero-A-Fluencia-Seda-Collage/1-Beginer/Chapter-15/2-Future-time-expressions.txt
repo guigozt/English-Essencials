@@ -1,0 +1,8 @@
+Future Time Expressions
+
+    1.  Tomorrow    ->  morning/night
+    2.  Tonight     ->  today
+    3.  To day after tomorrow   ->  *Monday - Tuesday - *Wednesday
+    4.  Next    ->  Year/Month/Weekend...
+    5.  After   ->  school/work...
+    6.  This    ->  Saturday

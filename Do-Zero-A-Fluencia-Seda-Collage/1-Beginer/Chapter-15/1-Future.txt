@@ -1,0 +1,24 @@
+Dialogue:
+
+    Tony: "Hi Steve! Next weekend's a long weekend! Are you doing anything?"
+    Steve: "I'm going to Spain!"
+    Tony: "Lucky you! When are you leaving?" Are you going with somebody?" 
+    Steve: "Not really... I like travelling alone. Plus, I'm staying in a friend's house...
+            So... I'm leaving tomorrow night"
+
+Present Continuous for Future
+
+    1.  What are you doing next Saturday?
+    -   I'm going to Dublin
+
+    2.  When are you leaving?
+    -   On Friday and comming back on Monday
+
+    3.  Are you going out tonight?
+    -   Yes, we're going to the cinema
+
+    4.  Is your girlfriend comming too?
+    -   No, she's meeting her friends
+
+    5.  Where are you staying?
+    -   I'm staying with friends

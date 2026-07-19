@@ -1,0 +1,23 @@
+Match:
+
+    1.  tomorrow
+    2.  next
+    3.  the day after
+    4.  after
+
+    a.  night
+    b.  morning
+    c.  Sunday
+    d.  week
+    e.  weekend
+    f.  tomorrow
+    g.  school
+    h.  work
+    i.  month
+
+Answers:
+
+    1.  (a, b)
+    2.  (a, b, c, d, e, i)
+    3.  (c, f)
+    4.  (c, g, h)
