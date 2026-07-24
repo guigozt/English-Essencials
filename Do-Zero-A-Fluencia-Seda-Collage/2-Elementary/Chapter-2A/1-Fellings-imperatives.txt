@@ -1,0 +1,27 @@
+Fellings
+
+    1.  Amanda is really worried
+    2.  Joana is happy
+    3.  Anna is thirsty
+    4.  Jenny is hot
+    5.  Jack is angry
+    6.  Beth is hungry
+    7.  Karen is tired
+    8.  Julia is afraid
+    9.  Bruna is stressed
+    10. Molly is cold
+    11. Mia is sad
+    12. Paul is bored
+
+1st Dialogue:
+
+    Karen: "Turn right, Kevin! And please... slow down!"
+    Kevin: "Come on Karen! Don't worry. You know I'm a good driver. I know the way."
+    Karen: "Yes, I know... but be careful!"
+
+2nd Dialogue:
+
+    Julia: "My God! I'm so hot! Turn on the A.C, please"
+    John: "This car has no A.C"
+    Julia: "So... open the window! Plus, I'm really thirsty"
+    John: "OK then... let's stop at the gas stations and buy some water. Give me my wallet, please."
