@@ -1,0 +1,21 @@
+John Family tree
+
+    1.  Jim is John's father
+    2.  Jane is John's mother
+    3.  Debby and Lucy are John's cousins
+    4.  Jerry is John's uncle
+    5.  Karen is John's aunt
+    6.  Greta is John's grandma
+    7.  Joseph id John's grandpa
+
+    8.  John is Jerry's nephew
+    9.  Carla is Jerry's niece
+
+    10. Jane is Jerry's sister
+    11. Jerry is Jane's brother     ->  They're siblings
+
+    12. Jim is Jerry's brother-in-law
+    13. Karen is Jane's sister-in-law
+
+    14. Greta is Karen's mother-in-law
+    15. Joseph is Tim's father-in-law

@@ -1,0 +1,19 @@
+Complete with the correct family member:
+
+    a) My mother's husband is my ___________.
+    b) My aunt's husband is my ___________.
+    c) My father's brother is my ___________.
+    d) My mother's sister is my ___________.
+    e) My mother's mother is my ___________.
+    f) My brother's son is my ___________.
+    g) My sister's daughter's is my ___________.
+
+Answer:
+
+    a) My mother's husband is my father.
+    b) My aunt's husband is my uncle.
+    c) My father's brother is my uncle.
+    d) My mother's sister is my aunt.
+    e) My mother's mother is my grandma.
+    f) My brother's son is my nephew.
+    g) My sister's daughter's is my niece.
