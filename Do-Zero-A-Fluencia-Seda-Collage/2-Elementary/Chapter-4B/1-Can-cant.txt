@@ -1,0 +1,14 @@
+Can you come on Tuesday?
+
+    1.  Example:
+        Jenny: "I can sing quite well, I guess!"
+        Karen: "No you can't! You don't know how to sing at all"
+
+    2.  Example:
+        Alex: "I can be here at 7 o'clock if needed"
+        Sarah: "Are you sure?"
+        Alex: "Tes, of course. It's possible for me"
+
+    3.  Example:
+        Bob: "Come here! Can I tell you a secret? Is It OK?"
+        Nath: "No you can't, I'm terrible at keeping secrets, Talk to Monica!"
