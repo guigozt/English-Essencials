@@ -1,0 +1,10 @@
+How often do you...
+
+    1.  see your friends?   ->  Every day
+    2.  go to the cinema?   ->  Every week 
+    3.  buy clothes?        ->  Every month
+    4.  travel?             ->  Every year
+    5.  talk to your grandma?   ->  Once a week
+    6.  take French classes?    ->  Twice a week
+    7.  go to the gym?      ->  Three times a week
+    8.  eat out?            ->  Four times a week  
