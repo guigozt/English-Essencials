@@ -1,0 +1,11 @@
+Parts of the house
+
+    1.  building        ->  Prédio
+    2.  bedroom         ->  Quarto
+    3.  living room     ->  Sala de estar
+    4.  dining room     ->  Sala de jantar
+    5.  bathroom        ->  Banheiro
+    6.  basement        ->  Porão
+    7.  kitchen         ->  Cozinha
+    8.  laundry         ->  Lavanderia
+    9.  kitchen         ->  Cozinha

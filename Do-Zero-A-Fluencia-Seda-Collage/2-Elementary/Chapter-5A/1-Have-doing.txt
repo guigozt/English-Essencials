@@ -1,0 +1,23 @@
+Look at this building:
+What are the residents doing?
+
+    1.  Example:
+        Look at Jack and Rose. They're are having a good time, cooking in the kitchen
+
+    2.  Example:
+        Julia, Joska and Jenny are cleaning the living room, That's a nice team work
+
+    3.  Example:
+        George was wathing TV earlier. But now, he's sleeping in the bedroom.
+
+    4.  Example:
+        Paul and Linda are having a romantic dinner. They're eating in the dining room
+
+    5.  Example:
+        Dave is in the bathroom. He's taking a shower after a long day at work
+
+    6.  Example:
+        Rita is in the laundry right now. She doesn't have a lot of time during the week, so she is doing the laundry today.
+
+    7.  Example:
+        Sean is in the basement, searching for his blue bike. It's really dark downstairs
