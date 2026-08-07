@@ -1,0 +1,4 @@
+Describe the weather in your hometown:
+
+    -   In São Paulo, it's windy. The mornings are usually sunny and warm.
+        However, in the evening, it gets cold and windy, and it usually rains
