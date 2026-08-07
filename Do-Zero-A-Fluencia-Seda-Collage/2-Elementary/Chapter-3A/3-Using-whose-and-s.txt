@@ -1,16 +1,58 @@
-Using 'whose' and 's
+📚 Using 's and Whose
+1️⃣ Possessive 's
 
-    1.  's
-    -   We use 's to talk about family and possessions:
-    -   He's Jane's uncle
+Use 's to show:
 
-    2.  s'
-    -   We use s' NOT 's with regular plural nouns:
-    -   They're my parents' friends.
+Family relationships
+Possession
 
-    3.  whose
-    -   We use whose to ask about possessions:
-    -   Whose postacard is it?  /   Whose is it postcard?
+Examples:
 
-    Attention!!
-    -   Whose and Who's have the same sound
+John's father
+Sarah's phone
+Maria's house
+The teacher's book
+2️⃣ Possessive s'
+
+If the noun is a regular plural ending in s, add only an apostrophe.
+
+Examples:
+
+My parents' house.
+The students' books.
+The teachers' room.
+
+📌 Compare
+
+| Singular            | Plural              |
+| ------------------- | ------------------- |
+| The girl's book.    | The girls' books.   |
+| The teacher's desk. | The teachers' room. |
+
+
+3️⃣ Whose
+
+Use whose to ask who owns something.
+
+Examples:
+
+Whose book is this?
+Whose phone is that?
+Whose keys are these?
+Whose bag is it?
+
+Answers:
+
+It's John's.
+It's Maria's.
+They're my parents'.
+⚠️ Whose × Who's
+
+These words sound the same (homophones), but they have different meanings.
+
+| Word      | Meaning          | Example              |
+| --------- | ---------------- | -------------------- |
+| **Who's** | Who is / Who has | Who's your teacher?  |
+| **Whose** | De quem          | Whose phone is this? |
+
+

@@ -1,39 +1,104 @@
-1st Example:
+👨‍👩‍👧‍👦 Family Members & Possession
 
--   Who's that woman next to Justin Bieber?
--   She's Justin Bieber's mother
+We use 's to show:
 
-2nd Example:
+👨‍👩‍👧 Family relationships
+🎒 Possession (who owns something)
 
--   Who's that man next to Britney Spears?
--   He's Britney's father
+Examples:
 
-3rt Example:
+John's father
+Sarah's book
+Maria's car
+📸 Talking About Family Members
+Example 1
 
--   Who's that man holding Jack and William?
--   He's Jack and William's grandpa
+Who's that woman next to Justin Bieber?
 
-4rt Example:
+She's Justin Bieber's mother.
 
--   Who's that woman in front of Jerry?
--   She's Jerry's grandma
+📖 Vocabulary
 
-5rt Example:
+next to = ao lado de
+mother = mãe
+Example 2
 
--   Who's that woman carrying Dave on her back?
--   She's Dave's aunt
+Who's that man next to Britney Spears?
 
-6rt Example:
-    
--   Who's that man sitting next to Will?
--   He's Will's uncle
+He's Britney Spears' father.
 
-7rt Example:
+📌 Como Spears já termina em s, também é comum escrever:
 
--   Whose car is it?
--   It's Ronaldo's car  /   It's Ronaldo's
+Britney Spears's father (mais comum no inglês americano)
 
-8rt Example:
+ou
 
--   Whose mug is it?
--   It's Maria's mug    /   It's Maria's
+Britney Spears' father (mais comum no inglês britânico)
+
+Example 3
+
+Who's that man holding Jack and William?
+
+He's Jack and William's grandfather.
+
+📖 Vocabulary
+
+hold = segurar
+grandfather (grandpa) = avô
+
+📌 Como Jack e William têm o mesmo avô, usamos apenas um 's no último nome.
+
+Example 4
+
+Who's that woman in front of Jerry?
+
+She's Jerry's grandmother.
+
+📖 Vocabulary
+
+in front of = em frente a
+grandmother (grandma) = avó
+Example 5
+
+Who's that woman carrying Dave on her back?
+
+She's Dave's aunt.
+
+📖 Vocabulary
+
+carry = carregar
+on her back = nas costas
+aunt = tia
+Example 6
+
+Who's that man sitting next to Will?
+
+He's Will's uncle.
+
+📖 Vocabulary
+
+sit = sentar
+sitting = sentado
+uncle = tio
+Example 7
+
+Whose car is it?
+
+It's Ronaldo's car.
+
+It's Ronaldo's.
+
+📌 Se o objeto já foi mencionado, podemos omiti-lo.
+
+Examples:
+
+It's Sarah's.
+It's John's.
+It's mine.
+Example 8
+
+Whose mug is it?
+
+It's Maria's mug.
+
+It's Maria's.

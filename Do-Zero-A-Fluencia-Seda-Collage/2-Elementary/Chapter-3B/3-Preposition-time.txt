@@ -1,16 +1,69 @@
-Prepositions of time
+📅 Prepositions of Time
 
-    | **in**           | **on**                 | **at**         |
-    | ---------------- | ---------------------- | -------------- |
-    | in the morning   | on Monday              | at 3 o'clock   |
-    | in the afternoon | on Tuesday             | at midday      |
-    | in the evening   | on Wednesday           | at midnight    |
-    | in January       | on Friday              | at lunchtime   |
-    | in 2026          | on weekends *(AmE)*    | at Christmas   |
-    | in summer        | on the weekend *(AmE)* | at Easter      |
-    | in July          | on my birthday         | **at night** ⭐ |
+Prepositions of time tell us when something happens.
 
+| **in**           | **on**                 | **at**         |
+| ---------------- | ---------------------- | -------------- |
+| in the morning   | on Monday              | at 3 o'clock   |
+| in the afternoon | on Friday              | at midday      |
+| in the evening   | on my birthday         | at midnight    |
+| in January       | on Christmas Day       | at lunchtime   |
+| in July          | on weekends *(AmE)*    | at Christmas   |
+| in 2026          | on the weekend *(AmE)* | at Easter      |
+| in summer        | on Sunday morning      | **at night** ⭐ |
 
-    -   We use "in" for parts of the day and seasons
-    -   We use "on" for days
-    -   We use "at" for times of the days and festivals
+📌 When do we use them?
+🟦 In
+
+Use in for:
+
+Parts of the day
+Months
+Years
+Seasons
+Long periods of time
+
+Examples:
+
+in the morning
+in July
+in 2026
+in summer
+
+🟩 On
+
+Use on for:
+
+Days
+Dates
+Specific days + parts of the day
+
+Examples:
+
+on Monday
+on my birthday
+on Sunday morning
+on Christmas Day
+
+💡 Note: Quando você especifica o dia, usa on:
+
+in the morning ✅
+on Monday morning ✅
+on Sunday afternoon ✅
+
+🟥 At
+
+Use at for:
+
+Exact times
+Holidays
+Specific moments
+Night
+
+Examples:
+
+at 7 o'clock
+at midday
+at lunchtime
+at Christmas
+at night

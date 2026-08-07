@@ -1,10 +1,30 @@
-How often do you...
+🗓️ Expressions of Frequency
 
-    1.  see your friends?   ->  Every day
-    2.  go to the cinema?   ->  Every week 
-    3.  buy clothes?        ->  Every month
-    4.  travel?             ->  Every year
-    5.  talk to your grandma?   ->  Once a week
-    6.  take French classes?    ->  Twice a week
-    7.  go to the gym?      ->  Three times a week
-    8.  eat out?            ->  Four times a week  
+Expressions of frequency tell us exactly how often something happens.
+
+They usually go at the end of the sentence.
+
+| Expression         | Meaning               |
+| ------------------ | --------------------- |
+| every day          | todos os dias         |
+| every week         | toda semana           |
+| every month        | todo mês              |
+| every year         | todo ano              |
+| once a day         | uma vez por dia       |
+| once a week        | uma vez por semana    |
+| twice a week       | duas vezes por semana |
+| three times a week | três vezes por semana |
+| four times a month | quatro vezes por mês  |
+
+💬 How Often Do You...?
+
+| Question                               | Example Answer      |
+| -------------------------------------- | ------------------- |
+| How often do you see your friends?     | Every day.          |
+| How often do you go to the cinema?     | Every week.         |
+| How often do you buy clothes?          | Every month.        |
+| How often do you travel?               | Every year.         |
+| How often do you talk to your grandma? | Once a week.        |
+| How often do you take French classes?  | Twice a week.       |
+| How often do you go to the gym?        | Three times a week. |
+| How often do you eat out?              | Four times a week.  |

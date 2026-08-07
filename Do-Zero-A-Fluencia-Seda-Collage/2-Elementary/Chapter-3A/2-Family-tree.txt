@@ -1,21 +1,51 @@
-John Family tree
+🌳 Family Tree
 
-    1.  Jim is John's father
-    2.  Jane is John's mother
-    3.  Debby and Lucy are John's cousins
-    4.  Jerry is John's uncle
-    5.  Karen is John's aunt
-    6.  Greta is John's grandma
-    7.  Joseph id John's grandpa
+Immediate Family
 
-    8.  John is Jerry's nephew
-    9.  Carla is Jerry's niece
+| Person | Relationship  |
+| ------ | ------------- |
+| Jim    | John's father |
+| Jane   | John's mother |
 
-    10. Jane is Jerry's sister
-    11. Jerry is Jane's brother     ->  They're siblings
+Extended Family
 
-    12. Jim is Jerry's brother-in-law
-    13. Karen is Jane's sister-in-law
+| Person | Relationship                 |
+| ------ | ---------------------------- |
+| Debby  | John's cousin                |
+| Lucy   | John's cousin                |
+| Jerry  | John's uncle                 |
+| Karen  | John's aunt                  |
+| Greta  | John's grandmother (grandma) |
+| Joseph | John's grandfather (grandpa) |
 
-    14. Greta is Karen's mother-in-law
-    15. Joseph is Tim's father-in-law
+Nephew & Niece
+
+| Person | Relationship   |
+| ------ | -------------- |
+| John   | Jerry's nephew |
+| Carla  | Jerry's niece  |
+
+Brothers & Sisters
+
+| Sentence                 | Meaning                |
+| ------------------------ | ---------------------- |
+| Jane is Jerry's sister.  | Jane é irmã do Jerry.  |
+| Jerry is Jane's brother. | Jerry é irmão da Jane. |
+
+📌 Together, they are siblings.
+
+Sibling = irmão ou irmã (palavra neutra).
+
+Examples:
+
+I have two siblings.
+She has one brother and one sister.
+
+In-laws
+
+| Sentence                        | Meaning                  |
+| ------------------------------- | ------------------------ |
+| Jim is Jerry's brother-in-law.  | Jim é cunhado do Jerry.  |
+| Karen is Jane's sister-in-law.  | Karen é cunhada da Jane. |
+| Greta is Karen's mother-in-law. | Greta é sogra da Karen.  |
+| Joseph is Tim's father-in-law.  | Joseph é sogro do Tim.   |

@@ -1,10 +1,38 @@
+📅 Adverbs of Frequency
 
-100%    |   I always wake at 7 o'clock
-90%     |   I usually go home after I leave work
-80%     |   I normally / generally check my emails
-70%     |   I often / frequently visit my grandma at the weekend
-50%     |   I sometimes play rugby with my friends
-30%     |   I occasionally eat meat
-15%     |   I seldom wacth TV
-5%      |   I rarely / hardly ever make a gramma mistake
-0%      |   I never forget a face. I have an awesome memory
+Adverbs of frequency tell us how often something happens.
+
+They usually answer the question:
+
+How often...?
+
+📊 Frequency Scale
+
+| Frequency | Adverb                   | Example                                            |
+| --------- | ------------------------ | -------------------------------------------------- |
+| **100%**  | **always**               | I always wake up at 7 o'clock.                     |
+| **90%**   | **usually**              | I usually go home after I leave work.              |
+| **80%**   | **normally / generally** | I normally check my emails before work.            |
+| **70%**   | **often / frequently**   | I often visit my grandma at the weekend.           |
+| **50%**   | **sometimes**            | I sometimes play rugby with my friends.            |
+| **30%**   | **occasionally**         | I occasionally eat meat.                           |
+| **15%**   | **seldom**               | I seldom watch TV.                                 |
+| **5%**    | **rarely / hardly ever** | I rarely make grammar mistakes.                    |
+| **0%**    | **never**                | I never forget a face. I have an excellent memory. |
+
+📖 Meaning
+
+| Adverb       | Meaning        |
+| ------------ | -------------- |
+| always       | sempre         |
+| usually      | geralmente     |
+| normally     | normalmente    |
+| generally    | geralmente     |
+| often        | frequentemente |
+| frequently   | frequentemente |
+| sometimes    | às vezes       |
+| occasionally | ocasionalmente |
+| seldom       | raramente      |
+| rarely       | raramente      |
+| hardly ever  | quase nunca    |
+| never        | nunca          |

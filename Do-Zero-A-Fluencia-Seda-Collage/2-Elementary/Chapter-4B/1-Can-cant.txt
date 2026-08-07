@@ -1,14 +1,86 @@
-Can you come on Tuesday?
+💬 Can / Can't
 
-    1.  Example:
-        Jenny: "I can sing quite well, I guess!"
-        Karen: "No you can't! You don't know how to sing at all"
+The modal verb can is used to talk about:
 
-    2.  Example:
-        Alex: "I can be here at 7 o'clock if needed"
-        Sarah: "Are you sure?"
-        Alex: "Tes, of course. It's possible for me"
+✅ Ability (skills)
+✅ Possibility
+✅ Permission
+✅ Requests
+✅ Asking for permission
 
-    3.  Example:
-        Bob: "Come here! Can I tell you a secret? Is It OK?"
-        Nath: "No you can't, I'm terrible at keeping secrets, Talk to Monica!"
+📌 Can is a modal verb, so it is always followed by the base form (infinitive without "to").
+
+Structure
+
+| Positive                 | Negative                   | Question                  |
+| ------------------------ | -------------------------- | ------------------------- |
+| Subject + **can** + verb | Subject + **can't** + verb | **Can** + subject + verb? |
+
+Examples:
+
+I can swim.
+She can't drive.
+Can you help me?
+
+🎤 Example 1 – Ability
+
+Jenny: "I can sing quite well, I guess."
+
+Karen: "No, you can't! You don't know how to sing at all."
+
+Meaning
+
+Can expresses ability (what someone knows how to do).
+
+📌 Vocabulary
+
+| Expression | Meaning                        |
+| ---------- | ------------------------------ |
+| sing       | cantar                         |
+| quite well | muito bem / razoavelmente bem  |
+| I guess    | eu acho                        |
+| at all     | de jeito nenhum / nem um pouco |
+
+⏰ Example 2 – Possibility
+
+Alex: "I can be here at seven o'clock if needed."
+
+Sarah: "Are you sure?"
+
+Alex: "Yes, of course. It's possible for me."
+
+Meaning
+
+Here, can means it is possible.
+
+Examples:
+
+I can come tomorrow.
+We can't meet today.
+She can finish the project this week.
+
+🤫 Example 3 – Asking for Permission
+
+Bob: "Come here! Can I tell you a secret?"
+
+Nath: "No, you can't. I'm terrible at keeping secrets. Talk to Monica!"
+
+Meaning
+
+Can I... ?
+
+= Asking permission.
+
+Examples:
+
+Can I sit here?
+Can I use your phone?
+Can I open the window?
+
+Short Answers
+
+| Question       | Positive       | Negative        |
+| -------------- | -------------- | --------------- |
+| Can you swim?  | Yes, I can.    | No, I can't.    |
+| Can she cook?  | Yes, she can.  | No, she can't.  |
+| Can they help? | Yes, they can. | No, they can't. |

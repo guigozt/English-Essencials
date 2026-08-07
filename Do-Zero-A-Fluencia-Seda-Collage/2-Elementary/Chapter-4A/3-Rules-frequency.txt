@@ -1,14 +1,84 @@
-Frequency adverbs and expressions of frquency
+📍 Position of Frequency Adverbs
+✅ Before the main verb
 
-    1.  Frequency adverbs are used to:
+Examples:
 
-    -   Go before all main verbs (except for the verb be):
-        Ex: He 'never' smokes / I'm 'usually' late
+I always study at night.
+She usually drinks coffee.
+They often play football.
+We never eat fast food.
+✅ After the verb to be
 
-    -   In negative sentences, the abverb goes between don't/ doesn't and the verb (except for ever / hardly ever):
-        Ex: He doesn't 'always' play football on Mondays
+Examples:
 
-    2.  Expressions of frequency are used to:
+I am always tired after work.
+She is usually happy.
+They are never late.
+He is often busy.
 
-    -   Generally, go at the end sentences or verb phrases:
-        Ex: I have German classes 'twice a week'
+📌 Remember:
+
+BE + Adverb
+
+Not:
+
+❌ I always am tired.
+
+❌ Negative Sentences
+
+The adverb goes between don't / doesn't and the main verb.
+
+Examples:
+
+I don't usually eat breakfast.
+She doesn't often drive.
+They don't normally work on Sundays.
+❓ Questions
+
+Adverbs are not usually placed in the question.
+
+Instead, ask:
+
+How often... ?
+
+Examples:
+
+How often do you study English?
+How often does she visit her family?
+How often do they travel?
+
+📌 Frequency Adverbs × Frequency Expressions
+
+| Frequency Adverbs | Frequency Expressions |
+| ----------------- | --------------------- |
+| always            | every day             |
+| usually           | every week            |
+| often             | every month           |
+| sometimes         | every year            |
+| rarely            | once a week           |
+| never             | twice a week          |
+
+
+Difference
+
+Frequency adverbs describe frequency in a general way.
+
+I usually study English.
+
+Frequency expressions tell us the exact frequency.
+
+I study English three times a week.
+
+📖 Examples
+Adverbs
+I always wake up early.
+She usually drinks tea.
+We sometimes go to the beach.
+They rarely eat fast food.
+He never arrives late.
+
+Expressions
+I study English every day.
+We visit our grandparents once a month.
+She goes to the gym three times a week.
+They travel every summer.

@@ -1,14 +1,51 @@
-Present Continuous: be + verb + ing
+📚 Present Continuous
+Structure
 
-    We use the present continuous for:
+Subject + am / is / are + Verb + ing
 
-    1.  Things that are happening at the moment: 
-        -   My dad is talking on the phone now
+| Subject | Verb "to be" | Verb + ing | Example           |
+| ------- | ------------ | ---------- | ----------------- |
+| I       | am           | working    | I am working.     |
+| You     | are          | studying   | You are studying. |
+| He      | is           | sleeping   | He is sleeping.   |
+| She     | is           | cooking    | She is cooking.   |
+| It      | is           | raining    | It is raining.    |
+| We      | are          | eating     | We are eating.    |
+| They    | are          | playing    | They are playing. |
 
-    2.  Longer periods of time (today, this week...):
-        -   I'm working at home this week
-        
+When do we use it?
+1️⃣ Actions happening now
 
-            +           |           -               |           ?
-    -----------------------------------------------------------------------------
-    I'm having a party  |   I'm not having a party  |   Are you having a party
+Use it for actions happening at this moment.
+
+Examples:
+
+My dad is talking on the phone now.
+She is reading a book.
+They are watching TV.
+We are studying English.
+2️⃣ Temporary situations
+
+Use it for situations happening around the present time, but not necessarily at this exact moment.
+
+Examples:
+
+I'm working from home this week.
+She is staying with her grandparents this month.
+We are learning about the Present Continuous today.
+
+Sentence Structure
+
+| Positive            | Negative                | Question                |
+| ------------------- | ----------------------- | ----------------------- |
+| I'm having a party. | I'm not having a party. | Are you having a party? |
+| She is cooking.     | She isn't cooking.      | Is she cooking?         |
+| They are studying.  | They aren't studying.   | Are they studying?      |
+
+Short Answers
+
+| Question          | Positive       | Negative         |
+| ----------------- | -------------- | ---------------- |
+| Are you studying? | Yes, I am.     | No, I'm not.     |
+| Is she sleeping?  | Yes, she is.   | No, she isn't.   |
+| Are they working? | Yes, they are. | No, they aren't. |

@@ -1,11 +1,12 @@
-Parts of the house
+🏠 Parts of the House
 
-    1.  building        ->  Prédio
-    2.  bedroom         ->  Quarto
-    3.  living room     ->  Sala de estar
-    4.  dining room     ->  Sala de jantar
-    5.  bathroom        ->  Banheiro
-    6.  basement        ->  Porão
-    7.  kitchen         ->  Cozinha
-    8.  laundry         ->  Lavanderia
-    9.  kitchen         ->  Cozinha
+| English      | Portuguese     | Example                                       |
+| ------------ | -------------- | --------------------------------------------- |
+| building     | prédio         | They live in a tall building.                 |
+| bedroom      | quarto         | She is sleeping in the bedroom.               |
+| living room  | sala de estar  | We watch TV in the living room.               |
+| dining room  | sala de jantar | They are eating in the dining room.           |
+| bathroom     | banheiro       | He is taking a shower in the bathroom.        |
+| basement     | porão          | The bikes are in the basement.                |
+| kitchen      | cozinha        | My mother is cooking in the kitchen.          |
+| laundry room | lavanderia     | She is doing the laundry in the laundry room. |

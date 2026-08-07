@@ -1,13 +1,47 @@
-Prepositions of Place
+📍 Prepositions of Place
 
-        in          |   to          |   at
-    -----------------------------------------------
-    a flat          |   get back... |   work
-    a house         |   go...       |   home
-    a restaurant    |               |   school 
-    an office       |               |   university
+Prepositions of place tell us where someone or something is.
 
-    -   We use "to" for movement and direction
-    -   We use "at" and "in" for position
-    -   We use "at" + work, home, school, cinema
-    -   We use "in" + other places: a flat, an office, a room  
+| **in**          | **to**                 | **at**          |
+| --------------- | ---------------------- | --------------- |
+| in a flat       | go to work             | at work         |
+| in a house      | go to school           | at school       |
+| in a restaurant | go to university       | at university   |
+| in an office    | get back to the office | at home         |
+| in a room       | go to the cinema       | at the cinema   |
+| in the kitchen  | go to the market       | at the bus stop |
+
+📌 When do we use them?
+🟦 In
+
+Use in when something is inside a place.
+
+Examples:
+
+She is in the kitchen.
+We live in a flat.
+He works in an office.
+They are in the restaurant.
+
+🟩 To
+
+Use to for movement or direction.
+
+Examples:
+
+I go to work.
+She walks to school.
+They travel to Dublin.
+We go to the cinema.
+
+🟥 At
+
+Use at for a specific location or point.
+
+Examples:
+
+I'm at home.
+She's at work.
+They're at school.
+We met at the restaurant.
+
