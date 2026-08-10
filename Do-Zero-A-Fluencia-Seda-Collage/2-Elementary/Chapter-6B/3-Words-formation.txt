@@ -1,0 +1,54 @@
+Word Formation – Professions
+
+Muitas profissões são formadas adicionando um sufixo à palavra original.
+
+Common suffixes
+
+| Suffix            | Example                 |
+| ----------------- | ----------------------- |
+| **-er**           | write → writer          |
+| **-or**           | act → actor             |
+| **-ian**          | music → musician        |
+| **-ist**          | science → scientist     |
+| **-man / -woman** | sportsman / sportswoman |
+
+Noun → Profession
+
+| Base word   | Profession                  |
+| ----------- | --------------------------- |
+| sport       | sportsman / sportswoman     |
+| police      | policeman / policewoman     |
+| business    | businessman / businesswoman |
+| music       | musician                    |
+| politics    | politician                  |
+| history     | historian                   |
+| science     | scientist                   |
+| art         | artist                      |
+| archaeology | archaeologist               |
+
+Verb → Profession
+
+| Verb   | Profession      |
+| ------ | --------------- |
+| write  | writer          |
+| paint  | painter         |
+| sing   | singer          |
+| act    | actor / actress |
+| invent | inventor        |
+
+Compare Present and Past
+
+| Present          | Past              |
+| ---------------- | ----------------- |
+| He is famous.    | He was famous.    |
+| They are actors. | They were actors. |
+| She is happy.    | She was happy.    |
+| We are busy.     | We were busy.     |
+
+Quick Review
+
+| Subject     | Positive | Negative | Question      |
+| ----------- | -------- | -------- | ------------- |
+| I           | was      | wasn't   | Was I...?     |
+| He/She/It   | was      | wasn't   | Was he...?    |
+| You/We/They | were     | weren't  | Were they...? |
