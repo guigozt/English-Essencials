@@ -1,0 +1,152 @@
+Past Simple – Irregular Verbs
+
+We use the Past Simple for finished actions in the past.
+
+I went to Spain last month.
+
+She met her friends yesterday.
+
+We had dinner at 8 o'clock.
+
+What are irregular verbs?
+
+Regular verbs usually add -ed:
+
+walk → walked
+work → worked
+play → played
+
+Irregular verbs do not follow the -ed rule:
+
+go → went
+meet → met
+have → had
+see → saw
+wear → wore
+
+There is no single rule for irregular verbs, so you need to learn their past forms individually.
+
+Affirmative (+)
+
+Use the irregular past form.
+
+| Subject | Example    |
+| ------- | ---------- |
+| I       | went home. |
+| He      | went home. |
+| She     | went home. |
+| We      | went home. |
+| They    | went home. |
+
+Negative (-)
+
+Use:
+
+subject + didn't + infinitive/base verb
+
+This is very important:
+
+She went home.
+
+becomes:
+
+She didn't go home.
+
+NOT:
+
+❌ She didn't went home.
+
+The didn't already carries the past, so the main verb returns to its base form.
+
+| Affirmative | Negative    |
+| ----------- | ----------- |
+| went        | didn't go   |
+| saw         | didn't see  |
+| met         | didn't meet |
+| had         | didn't have |
+| wore        | didn't wear |
+| bought      | didn't buy  |
+
+Questions (?)
+
+Use:
+
+Did + subject + base verb?
+
+Did you go to the cinema?
+
+Did she meet John?
+
+Did they have dinner?
+
+Again, the verb goes back to the infinitive/base form.
+
+❌ Did you went?
+
+✅ Did you go?
+
+❌ Did she saw him?
+
+✅ Did she see him?
+
+Short Answers
+
+| Question         | Yes            | No               |
+| ---------------- | -------------- | ---------------- |
+| Did you go?      | Yes, I did.    | No, I didn't.    |
+| Did he go?       | Yes, he did.   | No, he didn't.   |
+| Did she see him? | Yes, she did.  | No, she didn't.  |
+| Did they meet?   | Yes, they did. | No, they didn't. |
+
+Could / Couldn't
+
+Could is the past form of can when talking about ability or possibility in the past.
+
+I can swim. → Present
+
+I could swim when I was five. → Past
+
+Negative:
+
+I couldn't swim when I was five.
+
+Questions
+
+Could you swim when you were five?
+
+Could she speak English?
+
+We do not use did with could:
+
+❌ Did you can swim?
+
+❌ I didn't can swim.
+
+✅ Could you swim?
+
+✅ I couldn't swim.
+
+Some Important Irregular Verbs
+
+| Infinitive | Past    | Example                 |
+| ---------- | ------- | ----------------------- |
+| go         | went    | I went home.            |
+| come       | came    | She came to my house.   |
+| meet       | met     | We met at the station.  |
+| see        | saw     | I saw a movie.          |
+| have       | had     | We had dinner.          |
+| get        | got     | I got home at 10.       |
+| make       | made    | She made dinner.        |
+| take       | took    | He took a taxi.         |
+| give       | gave    | She gave me a present.  |
+| say        | said    | He said hello.          |
+| tell       | told    | She told me the truth.  |
+| speak      | spoke   | We spoke English.       |
+| wear       | wore    | I wore a white shirt.   |
+| find       | found   | I found my keys.        |
+| leave      | left    | We left at midnight.    |
+| feel       | felt    | I felt tired.           |
+| think      | thought | I thought about it.     |
+| buy        | bought  | She bought a new phone. |
+| bring      | brought | He brought some food.   |
+| write      | wrote   | I wrote a letter.       |
