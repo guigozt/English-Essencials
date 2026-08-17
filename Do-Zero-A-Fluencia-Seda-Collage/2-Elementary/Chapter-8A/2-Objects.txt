@@ -1,0 +1,45 @@
+Objects and furniture:
+
+    In the bedroom:
+        -   nightstand(s)
+        -   plant pot(s)
+        -   carpet(s)
+        -   pillow(s)
+        -   bed(s)
+        -   cushion(s)
+        -   lamp(s)
+
+    In the living room:
+        -   center table(s)
+        -   sofa(s)
+        -   lamp(s)
+        -   armchair(s)
+        -   cupboard(s)
+        -   shelf (shelves)
+        -   magazine(s)
+
+    In the dinner room:
+        -   Table(s)
+        -   chair(s)
+        -   mirror(s)
+        -   plate(s)
+        -   pendant ceiling lamp(s)
+        -   knife (knives)
+        -   fork(s)
+
+    In the kitchen:
+        -   frigde(s)
+        -   stove(s)
+        -   toaster(s)
+        -   kettle(s)
+        -   microwave(s)
+        -   teapot(s)
+        -   cabinet(s)
+        -   drawer(s)
+
+    In teh bathroom:
+        -   bathroom mirror(s)
+        -   toilet(s)
+        -   shower(s)
+        -   bath(s)
+        -   sink(s)
