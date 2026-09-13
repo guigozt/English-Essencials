@@ -1,0 +1,19 @@
+Complete with a / an  or some:
+
+    1.  _ bread
+    2.  _ eggs
+    3.  _ milk
+    4.  _ sandwich
+    5.  _ chocolate
+    6.  _ orange
+    7.  _ ice cream
+
+Answers:
+
+    1.  some bread
+    2.  some eggs
+    3.  some milk
+    4.  a sandwich
+    5.  some chocolate
+    6.  an orange
+    7.  some/an ice cream

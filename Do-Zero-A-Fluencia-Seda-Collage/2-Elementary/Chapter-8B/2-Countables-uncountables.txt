@@ -1,0 +1,26 @@
+Countables / uncountables
+
+-   Countables: (things you can count)
+    Ex: an orange/ three oranges
+
+-   Uncountables: (things you can't count)
+    Ex: Butter, meat
+
+Using a / an, some / any
+
+                        Countable       |   Uncountable
+    -----------------------------------------------------
+    We need (+)         |   an apple        |   some butter
+                        |   some apples     
+
+    We don't need (-)   |   a tomate        |   any rice
+                            any tomatoes
+
+    Do we need (?)      |   any orange?     |   any sugar
+                        |   any oranges?
+
+Rules:
+
+-   We use a / an with singular countables nouns = one
+-   We use some in the (+) with plural countable nouns and uncountable nouns = not a exact number or quantity
+-   We use any in the (-) and (?) with plural countables nouns and with ncountables nouns
