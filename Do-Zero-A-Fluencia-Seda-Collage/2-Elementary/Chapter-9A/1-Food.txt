@@ -1,0 +1,249 @@
+# 🍎 Food — Countable & Uncountable Nouns
+
+## 1. Countable vs. Uncountable
+
+### Countable nouns — coisas que podemos contar
+
+Podemos usar números diretamente:
+
+* 1 biscuit → 2 biscuits
+* 1 apple → 3 apples
+* 1 sweet → 5 sweets
+* 1 egg → 6 eggs
+
+👉 Geralmente possuem forma **singular e plural**.
+
+**Example:**
+
+> How many biscuits are there in the jar?
+> There are **a few biscuits**.
+
+---
+
+### Uncountable nouns — coisas que não contamos individualmente
+
+Normalmente não usamos números diretamente com essas palavras:
+
+* milk
+* water
+* rice
+* salt
+* sugar
+* bread
+* cheese
+* coffee
+
+❌ **two milks**
+✅ **two bottles of milk**
+
+👉 Normalmente são tratados como **singular**.
+
+**Example:**
+
+> How much milk is there in the bottle?
+> There is **a little milk**.
+
+---
+
+# 2. How much × How many
+
+### 🥛 How much → Uncountable
+
+Usamos **How much** para perguntar sobre quantidade de coisas incontáveis.
+
+> How much **milk** is there?
+> How much **water** do you drink?
+> How much **salt** do you eat?
+
+### 🍪 How many → Countable
+
+Usamos **How many** para perguntar sobre coisas contáveis no plural.
+
+> How many **biscuits** are there?
+> How many **eggs** do you need?
+> How many **apples** do you eat?
+
+### 📌 Regra rápida
+
+**How much + uncountable**
+
+> How much **rice**?
+
+**How many + plural countable**
+
+> How many **biscuits**?
+
+---
+
+# 3. Quantifiers
+
+Quantifiers são palavras que indicam **quantidade**.
+
+## 🥛 Uncountable nouns
+
+| Quantifier         | Meaning   | Example                          |
+| ------------------ | --------- | -------------------------------- |
+| **A lot of**       | muito(a)  | I drink **a lot of milk**.       |
+| **Quite a lot of** | bastante  | I drink **quite a lot of milk**. |
+| **A little**       | um pouco  | I drink **a little milk**.       |
+| **Not much**       | não muito | I don't drink **much milk**.     |
+| **None / not any** | nenhum(a) | I don't drink **any milk**.      |
+
+### Question:
+
+> **How much milk do you drink?**
+
+Possible answers:
+
+> **A lot.**
+> **Quite a lot.**
+> **A little.**
+> **Not much.**
+> **None.**
+
+### Full answers:
+
+> I drink **a lot of milk**.
+> I drink **quite a lot of milk**.
+> I drink **a little milk**.
+> I don't drink **much milk**.
+> I don't drink **any milk**.
+
+---
+
+# 4. Countable nouns
+
+| Quantifier         | Meaning          | Example                            |
+| ------------------ | ---------------- | ---------------------------------- |
+| **A lot of**       | muitos(as)       | I eat **a lot of biscuits**.       |
+| **Quite a lot of** | bastante         | I eat **quite a lot of biscuits**. |
+| **A few**          | alguns / algumas | I eat **a few biscuits**.          |
+| **Not many**       | não muitos(as)   | I don't eat **many biscuits**.     |
+| **None / not any** | nenhum(a)        | I don't eat **any biscuits**.      |
+
+### Question:
+
+> **How many biscuits do you eat?**
+
+Possible answers:
+
+> **A lot.**
+> **Quite a lot.**
+> **A few.**
+> **Not many.**
+> **None.**
+
+### Full answers:
+
+> I eat **a lot of biscuits**.
+> I eat **quite a lot of biscuits**.
+> I eat **a few biscuits**.
+> I don't eat **many biscuits**.
+> I don't eat **any biscuits**.
+
+---
+
+# 5. A little × A few
+
+Essa diferença é importante:
+
+### **A little → uncountable**
+
+> I have **a little water**.
+> I eat **a little rice**.
+
+= Tenho/como **um pouco de...**
+
+### **A few → countable plural**
+
+> I have **a few apples**.
+> I eat **a few biscuits**.
+
+= Tenho/como **alguns/algumas...**
+
+📌 Pense assim:
+
+**A little → quantidade de algo que não contamos individualmente**
+
+**A few → algumas unidades que podemos contar**
+
+---
+
+# 6. Food Containers
+
+Para alimentos e bebidas, usamos diferentes recipientes.
+
+| Container  | Português               | Example              |
+| ---------- | ----------------------- | -------------------- |
+| **bottle** | garrafa                 | a bottle of water    |
+| **packet** | pacote                  | a packet of biscuits |
+| **box**    | caixa                   | a box of cereal      |
+| **can**    | lata                    | a can of soda        |
+| **jar**    | pote / frasco           | a jar of jam         |
+| **carton** | embalagem de papelão    | a carton of milk     |
+| **tin**    | lata / lata de conserva | a tin of beans       |
+| **jug**    | jarra                   | a jug of juice       |
+
+### Examples
+
+> a **bottle of water**
+> a **packet of biscuits**
+> a **box of cereal**
+> a **can of soda**
+> a **jar of jam**
+> a **carton of milk**
+> a **tin of beans**
+> a **jug of orange juice**
+
+---
+
+# 🧠 Quick Review
+
+### COUNTABLE
+
+Podemos contar:
+
+> one apple → two apples
+
+Usamos:
+
+**How many?**
+
+> How many apples?
+
+E podemos usar:
+
+> a few apples
+> many apples
+> a lot of apples
+> not many apples
+> any apples
+
+---
+
+### UNCOUNTABLE
+
+Não contamos individualmente:
+
+> water, milk, rice, salt, sugar
+
+Usamos:
+
+**How much?**
+
+> How much water?
+
+E podemos usar:
+
+> a little water
+> much water
+> a lot of water
+> not much water
+> any water
+
+---
+
+### ⭐ Regra para lembrar
+
+> **HOW MANY → COUNTABLE PLURAL** 🍪🍪🍪
+> **HOW MUCH → UNCOUNTABLE** 🥛💧

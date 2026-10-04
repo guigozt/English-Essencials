@@ -1,0 +1,21 @@
+Complete the phrases with the most suitable food cointainer
+
+    1.  _ of chocolate milk
+    2.  _ of milk chocolate
+    3.  _ of Coca Cola
+    4.  _ of beans
+    5.  _ of beer
+    6.  _ of biscuits
+    7.  _ of Peas
+    8.  _ of honey
+
+Answer:
+
+    1.  carton of milk
+    2.  a box of chocolate
+    3.  can of Coca Cola
+    4.  tin of beans
+    5.  a bottle of beer
+    6.  packet of biscuits
+    7.  tin of Peas
+    8.  jar of honey

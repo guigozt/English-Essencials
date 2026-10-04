@@ -32,7 +32,25 @@ Useful Vocabulary
 | warm          | quente (agradável)            |
 | stroll        | passear / caminhar calmamente |
 | go for a walk | dar uma caminhada             |
-| park          | parque                        |
+| park          | parque                        |PS C:\Users\guilh\OneDrive\Documentos\3-Projetos-Pessoais-Github\Workonnection> git status
+On branch feature/validacao_email_google
+Your branch is up to date with 'origin/feature/validacao_email_google'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   frontend/src/services/authService.ts
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   frontend/src/App.css
+        modified:   frontend/src/pages/Auth/Cadastro/Cadastro.module.css
+        modified:   frontend/src/pages/Auth/Cadastro/Cadastro.tsx
+        modified:   frontend/src/pages/Auth/GoogleVerification/GoogleVerification.module.css
+        modified:   frontend/src/pages/Auth/GoogleVerification/GoogleVerification.tsx
+        modified:   frontend/src/pages/Auth/Login/Login.module.css
+        modified:   frontend/src/pages/Auth/Login/Login.tsx
+
 | good weather  | bom tempo                     |
 
 🍂 Autumn (Fall)
