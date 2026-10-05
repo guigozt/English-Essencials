@@ -1,0 +1,19 @@
+Compare use than
+
+1.  A proton in heavier than an electron
+-   Yes, an averege electron is lighter than an averege proton
+
+2.  The dublin castle is bigger than the Buckingham Palace
+-   No, actually, the dublin castle is smaller in size.
+
+3.  Robert de Niro is older than Sharon Stone
+-   Yes, Sharon Stone is 15 years younger than Roberto de Niro.
+
+4.  A ferrari-F-60 is cheaper than an Aston Martion One
+-   No, A ferrari-F-60 is more expansive than an Aston Martion One.
+
+5.  Michael Jordon is taller than Oscar
+-   No, Michael Jordan is shorter than Oscar.
+
+6.  Ireland is colder than Brazil?
+-   Yes, Brazil is hotter than Ireland.
