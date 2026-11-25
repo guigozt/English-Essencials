@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-In%20Progress-brightgreen?style=flat-square" alt="Status">
   <img src="https://img.shields.io/badge/Course-SEDA%20College-orange?style=flat-square" alt="SEDA College">
-  <img src="https://img.shields.io/badge/Level-Elementary%20(A2)-blue?style=flat-square" alt="Level">
+  <img src="https://img.shields.io/badge/Level-Pre--Intermediate%20(B1)-blue?style=flat-square" alt="Level">
   <img src="https://img.shields.io/badge/Markdown-Formatted-blueviolet?style=flat-square" alt="Markdown">
 </p>
 
@@ -41,8 +41,22 @@ English-Essencials/
 └── Do-Zero-A-Fluencia-Seda-Collage/
     ├── 0-Documents/             # Material de apoio, testes e documentos do curso
     ├── 1-Beginer/               # Módulo Beginner (Nível A1 - Chapters 1A a 15)
-    └── 2-Elementary/            # Módulo Elementary (Nível A2 - Chapters 1A a 12B)
+    ├── 2-Elementary/            # Módulo Elementary (Nível A2 - Chapters 1A a 12B)
+    └── 3-Pre-Intermediate/      # Módulo Pre-Intermediate (Nível B1 - Em andamento)
 ```
+
+---
+
+## 📖 Trilha de Conteúdo — Módulo Pre-Intermediate (B1)
+
+<details open>
+<summary><b>Capítulos em Andamento (Pre-Intermediate)</b></summary>
+
+| Capítulo | Temas Principais | Conteúdos & Arquivos |
+| :--- | :--- | :--- |
+| **Chapter 1A** | Question Formation & Word Order | [Formando Perguntas](Do-Zero-A-Fluencia-Seda-Collage/3-Pre-Intermediate/Chapter-1A/1-Form-questions.md) • [Ordem das Palavras](Do-Zero-A-Fluencia-Seda-Collage/3-Pre-Intermediate/Chapter-1A/2-Word-order.md) • [Exercício 1](Do-Zero-A-Fluencia-Seda-Collage/3-Pre-Intermediate/Chapter-1A/3-Exercise1.md) • [Exercício 2](Do-Zero-A-Fluencia-Seda-Collage/3-Pre-Intermediate/Chapter-1A/4-Exercise2.md) |
+
+</details>
 
 ---
 
