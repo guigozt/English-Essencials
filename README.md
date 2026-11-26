@@ -55,6 +55,7 @@ English-Essencials/
 | Capítulo | Temas Principais | Conteúdos & Arquivos |
 | :--- | :--- | :--- |
 | **Chapter 1A** | Question Formation & Word Order | [Formando Perguntas](Do-Zero-A-Fluencia-Seda-Collage/3-Pre-Intermediate/Chapter-1A/1-Form-questions.md) • [Ordem das Palavras](Do-Zero-A-Fluencia-Seda-Collage/3-Pre-Intermediate/Chapter-1A/2-Word-order.md) • [Exercício 1](Do-Zero-A-Fluencia-Seda-Collage/3-Pre-Intermediate/Chapter-1A/3-Exercise1.md) • [Exercício 2](Do-Zero-A-Fluencia-Seda-Collage/3-Pre-Intermediate/Chapter-1A/4-Exercise2.md) |
+| **Chapter 2A** | Describing People (Appearance & Personality) | [Aparência e Personalidade](Do-Zero-A-Fluencia-Seda-Collage/3-Pre-Intermediate/Chapter-2A/1-My-friends-know-me-better.md) • [Vocabulário e Ordem dos Adjetivos](Do-Zero-A-Fluencia-Seda-Collage/3-Pre-Intermediate/Chapter-2A/2-Describing-people.md) |
 
 </details>
 
